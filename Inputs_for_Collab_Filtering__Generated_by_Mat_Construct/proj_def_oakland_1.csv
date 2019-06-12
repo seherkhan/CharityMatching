@@ -1,0 +1,1304 @@
+,Project Type,Project Resource Category,Project Subject Category Tree,Project Subject Subcategory Tree,projtype_id
+3130,Teacher-Led,Flexible Seating,Health & Sports,Team Sports,0
+4979,Teacher-Led,Visitors,History & Civics,"History & Geography, Social Sciences",1
+13847,Teacher-Led,Visitors,"Applied Learning, History & Civics","Community Service, History & Geography",2
+19270,Professional Development,Trips,Math & Science,"Applied Sciences, Mathematics",3
+21802,Teacher-Led,Supplies,Health & Sports,Nutrition Education,4
+28237,Teacher-Led,Trips,"History & Civics, Math & Science","History & Geography, Mathematics",5
+57517,Teacher-Led,Technology,"Applied Learning, Literacy & Language","Character Education, Literature & Writing",6
+66748,Teacher-Led,Visitors,"History & Civics, Music & The Arts","History & Geography, Music",7
+82344,Teacher-Led,Technology,"Applied Learning, Music & The Arts","Community Service, Music",8
+95969,Teacher-Led,"Food, Clothing & Hygiene",Health & Sports,Team Sports,9
+102912,Teacher-Led,Supplies,"Math & Science, Health & Sports","Health & Life Science, Nutrition Education",10
+107807,Teacher-Led,Classroom Basics,Applied Learning,Character Education,11
+111037,Professional Development,Trips,"Math & Science, Special Needs","Applied Sciences, Special Needs",12
+170763,Teacher-Led,Flexible Seating,"History & Civics, Literacy & Language","History & Geography, Literacy",13
+178991,Teacher-Led,Art Supplies,"Warmth, Care & Hunger","Warmth, Care & Hunger",14
+198479,Teacher-Led,"Reading Nooks, Desks & Storage",Applied Learning,"College & Career Prep, Early Development",15
+216740,Teacher-Led,Computers & Tablets,"Math & Science, Special Needs","Applied Sciences, Special Needs",16
+303403,Professional Development,Books,"History & Civics, Literacy & Language","Financial Literacy, Literacy",17
+318559,Teacher-Led,Art Supplies,"Applied Learning, Math & Science","College & Career Prep, Mathematics",18
+318620,Teacher-Led,Educational Kits & Games,"Math & Science, Applied Learning","Applied Sciences, Extracurricular",19
+348967,Teacher-Led,Trips,"Applied Learning, Literacy & Language","Community Service, Foreign Languages",20
+381190,Teacher-Led,Lab Equipment,"Literacy & Language, Math & Science","Literacy, Mathematics",21
+391387,Teacher-Led,Technology,"Applied Learning, Math & Science","Extracurricular, Health & Life Science",22
+398675,Teacher-Led,Computers & Tablets,Math & Science,"Environmental Science, Mathematics",23
+406268,Teacher-Led,Trips,Music & The Arts,"Performing Arts, Visual Arts",24
+451467,Teacher-Led,Computers & Tablets,"Math & Science, Literacy & Language","Environmental Science, Literature & Writing",25
+501256,Teacher-Led,Books,"Math & Science, Applied Learning","Applied Sciences, Character Education",26
+508470,Teacher-Led,Supplies,"Literacy & Language, Health & Sports","Foreign Languages, Nutrition Education",27
+513879,Teacher-Led,Books,"History & Civics, Special Needs","Financial Literacy, Special Needs",28
+528252,Teacher-Led,Technology,"Health & Sports, Music & The Arts","Health & Wellness, Visual Arts",29
+528856,Teacher-Led,Supplies,"Health & Sports, Applied Learning","Gym & Fitness, Other",30
+530193,Teacher-Led,Classroom Basics,Music & The Arts,Visual Arts,31
+541543,Teacher-Led,Technology,"History & Civics, Math & Science","Civics & Government, Mathematics",32
+545573,Teacher-Led,Classroom Basics,"History & Civics, Music & The Arts","History & Geography, Performing Arts",33
+567733,Teacher-Led,Classroom Basics,Health & Sports,"Health & Wellness, Nutrition Education",34
+589819,Professional Development,Trips,"Applied Learning, Health & Sports","Early Development, Health & Wellness",35
+598741,Professional Development,Trips,"Math & Science, History & Civics","Applied Sciences, History & Geography",36
+605208,Teacher-Led,Visitors,"Health & Sports, Special Needs","Health & Wellness, Special Needs",37
+612562,Student-Led,Technology,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",38
+617378,Teacher-Led,Books,"History & Civics, Music & The Arts","History & Geography, Visual Arts",39
+628587,Teacher-Led,Lab Equipment,"Math & Science, Special Needs","Environmental Science, Special Needs",40
+630376,Teacher-Led,Other,"Applied Learning, Literacy & Language","Character Education, Literacy",41
+631158,Student-Led,Technology,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",42
+633959,Teacher-Led,Technology,Applied Learning,Parent Involvement,43
+634913,Teacher-Led,Supplies,"Applied Learning, History & Civics","Other, Social Sciences",44
+642541,Teacher-Led,Technology,"Math & Science, Applied Learning","Applied Sciences, Community Service",45
+645304,Teacher-Led,Instructional Technology,Literacy & Language,"ESL, Literature & Writing",46
+653892,Teacher-Led,Books,"Health & Sports, Math & Science","Health & Wellness, Mathematics",47
+654172,Teacher-Led,Supplies,Applied Learning,"Character Education, Community Service",48
+681766,Teacher-Led,Supplies,"Literacy & Language, Warmth, Care & Hunger","Literacy, Warmth, Care & Hunger",49
+691600,Professional Development,Trips,"Math & Science, Literacy & Language","Applied Sciences, Literacy",50
+721812,Student-Led,Books,"Warmth, Care & Hunger","Warmth, Care & Hunger",51
+741914,Teacher-Led,Technology,"Applied Learning, History & Civics","Extracurricular, History & Geography",52
+741915,Teacher-Led,Technology,"Music & The Arts, History & Civics","Performing Arts, Social Sciences",53
+742581,Teacher-Led,Trips,"Applied Learning, Math & Science","College & Career Prep, Environmental Science",54
+749793,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","Character Education, Music",55
+750134,Teacher-Led,Books,"Applied Learning, History & Civics","Character Education, Social Sciences",56
+751027,Teacher-Led,Other,"Applied Learning, Health & Sports","College & Career Prep, Health & Wellness",57
+767471,Teacher-Led,"Reading Nooks, Desks & Storage",Math & Science,Applied Sciences,58
+795859,Teacher-Led,Visitors,"Literacy & Language, Music & The Arts","Literacy, Music",59
+798144,Teacher-Led,Technology,"Music & The Arts, Special Needs","Music, Special Needs",60
+798259,Teacher-Led,Instructional Technology,"Special Needs, Music & The Arts","Special Needs, Visual Arts",61
+798316,Teacher-Led,Other,"Health & Sports, Applied Learning","Gym & Fitness, Other",62
+804128,Student-Led,Instructional Technology,"Literacy & Language, Music & The Arts","Literature & Writing, Visual Arts",63
+805464,Teacher-Led,Other,"Health & Sports, Music & The Arts","Health & Wellness, Music",64
+825243,Teacher-Led,Other,"Literacy & Language, Applied Learning","Literature & Writing, Other",65
+848387,Teacher-Led,Trips,Special Needs,Special Needs,66
+850447,Student-Led,Supplies,"Math & Science, Applied Learning","Environmental Science, Extracurricular",67
+859218,Teacher-Led,Trips,"History & Civics, Literacy & Language","Civics & Government, Literature & Writing",68
+859261,Teacher-Led,Trips,"Math & Science, History & Civics","Health & Life Science, History & Geography",69
+860144,Teacher-Led,Technology,History & Civics,Financial Literacy,70
+877880,Teacher-Led,Other,"Literacy & Language, Music & The Arts","Literacy, Performing Arts",71
+892638,Teacher-Led,Classroom Basics,Special Needs,Special Needs,72
+903695,Teacher-Led,Visitors,Music & The Arts,Visual Arts,73
+908619,Teacher-Led,Technology,"Math & Science, Health & Sports","Applied Sciences, Health & Wellness",74
+913111,Teacher-Led,Supplies,"Literacy & Language, Music & The Arts","ESL, Music",75
+926452,Teacher-Led,Technology,History & Civics,"Economics, Financial Literacy",76
+931215,Teacher-Led,Educational Kits & Games,History & Civics,Financial Literacy,77
+946056,Teacher-Led,Visitors,"Warmth, Care & Hunger","Warmth, Care & Hunger",78
+946285,Student-Led,Supplies,Applied Learning,"Character Education, Other",79
+947725,Teacher-Led,Supplies,"Music & The Arts, Applied Learning","Music, Parent Involvement",80
+971361,Teacher-Led,Trips,"Math & Science, Health & Sports","Environmental Science, Gym & Fitness",81
+977487,Teacher-Led,Educational Kits & Games,Math & Science,Environmental Science,82
+979005,Teacher-Led,Supplies,"History & Civics, Math & Science","Civics & Government, Mathematics",83
+983191,Teacher-Led,Supplies,"Math & Science, Literacy & Language","Environmental Science, Foreign Languages",84
+987516,Teacher-Led,Supplies,"History & Civics, Math & Science","Financial Literacy, Mathematics",85
+1011643,Student-Led,Supplies,"Applied Learning, Math & Science","Community Service, Health & Life Science",86
+1014659,Professional Development,Trips,Applied Learning,"Character Education, Other",87
+1016702,Student-Led,Supplies,"Applied Learning, Special Needs","College & Career Prep, Special Needs",88
+1022409,Teacher-Led,Trips,"Applied Learning, Math & Science","College & Career Prep, Mathematics",89
+1023121,Teacher-Led,Classroom Basics,"Math & Science, Literacy & Language","Applied Sciences, ESL",90
+1032301,Professional Development,Trips,"Math & Science, Music & The Arts","Mathematics, Visual Arts",91
+1035263,Teacher-Led,Supplies,Applied Learning,Community Service,92
+1047157,Teacher-Led,Instructional Technology,"Literacy & Language, Music & The Arts","ESL, Music",93
+1047660,Teacher-Led,Other,"Literacy & Language, Music & The Arts","Literature & Writing, Performing Arts",94
+1053040,Teacher-Led,Flexible Seating,Math & Science,Mathematics,95
+1053377,Teacher-Led,Books,"Math & Science, Music & The Arts","Environmental Science, Visual Arts",96
+1054702,Teacher-Led,Supplies,"Applied Learning, History & Civics","College & Career Prep, Social Sciences",97
+1054765,Teacher-Led,Technology,Applied Learning,"Community Service, Parent Involvement",98
+1054805,Teacher-Led,Technology,"Applied Learning, Literacy & Language","Character Education, Literacy",99
+1063767,Teacher-Led,Classroom Basics,"Health & Sports, Special Needs","Nutrition Education, Special Needs",100
+1066013,Professional Development,Trips,Music & The Arts,Music,101
+1072265,Teacher-Led,Trips,"Math & Science, Health & Sports","Environmental Science, Nutrition Education",102
+1073640,Teacher-Led,Computers & Tablets,"Applied Learning, Math & Science","College & Career Prep, Environmental Science",103
+1077575,Teacher-Led,Computers & Tablets,"Applied Learning, Special Needs","College & Career Prep, Special Needs",104
+1086482,Student-Led,Technology,Math & Science,"Applied Sciences, Mathematics",105
+1098270,Teacher-Led,Supplies,"Literacy & Language, Math & Science","ESL, Environmental Science",106
+1104806,Teacher-Led,Visitors,Health & Sports,Health & Wellness,107
+1117505,Teacher-Led,Visitors,Literacy & Language,"ESL, Literature & Writing",108
+1119250,Teacher-Led,Supplies,"Health & Sports, Math & Science","Gym & Fitness, Health & Life Science",109
+1127446,Teacher-Led,Trips,"Literacy & Language, Math & Science","Literacy, Mathematics",110
+1129987,Teacher-Led,Technology,"Math & Science, History & Civics","Applied Sciences, Civics & Government",111
+1144423,Teacher-Led,Trips,"Applied Learning, Math & Science","Character Education, Mathematics",112
+1145321,Student-Led,Trips,History & Civics,Civics & Government,113
+1148087,Teacher-Led,Supplies,"Applied Learning, Literacy & Language","Extracurricular, Literature & Writing",114
+1148480,Professional Development,Technology,Math & Science,"Applied Sciences, Mathematics",115
+1153580,Teacher-Led,Books,"Applied Learning, Math & Science","Character Education, Mathematics",116
+1158751,Teacher-Led,Classroom Basics,Math & Science,Applied Sciences,117
+1166061,Teacher-Led,"Reading Nooks, Desks & Storage","Math & Science, Literacy & Language","Applied Sciences, ESL",118
+1166889,Teacher-Led,Trips,Health & Sports,Health & Wellness,119
+1166942,Teacher-Led,Trips,Applied Learning,"Extracurricular, Other",120
+1166970,Teacher-Led,Supplies,"History & Civics, Applied Learning","History & Geography, Parent Involvement",121
+1170987,Teacher-Led,Trips,"Applied Learning, History & Civics","Extracurricular, History & Geography",122
+1173269,Teacher-Led,Technology,"History & Civics, Music & The Arts","Economics, Visual Arts",123
+1184317,Teacher-Led,Visitors,"Applied Learning, Music & The Arts","College & Career Prep, Visual Arts",124
+1184943,Teacher-Led,Trips,"Literacy & Language, History & Civics","Foreign Languages, History & Geography",125
+1189428,Teacher-Led,Books,Applied Learning,"Extracurricular, Other",126
+1193045,Teacher-Led,Instructional Technology,Music & The Arts,Visual Arts,127
+1203416,Teacher-Led,Visitors,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",128
+1221112,Teacher-Led,Trips,"Math & Science, Applied Learning","Applied Sciences, Character Education",129
+1221852,Teacher-Led,Other,"History & Civics, Music & The Arts","History & Geography, Performing Arts",130
+1229610,Student-Led,Technology,Applied Learning,Extracurricular,131
+1232863,Teacher-Led,Trips,"Literacy & Language, Special Needs","Literacy, Special Needs",132
+1244811,Teacher-Led,Computers & Tablets,"Warmth, Care & Hunger","Warmth, Care & Hunger",133
+1249220,Teacher-Led,Books,Music & The Arts,Visual Arts,134
+1256781,Teacher-Led,Sports & Exercise Equipment,"Applied Learning, Literacy & Language","Early Development, Literacy",135
+1258726,Teacher-Led,Technology,"Literacy & Language, History & Civics","ESL, Social Sciences",136
+1265673,Teacher-Led,Supplies,"Applied Learning, History & Civics","Community Service, History & Geography",137
+1269610,Teacher-Led,Instructional Technology,"Math & Science, Applied Learning","Applied Sciences, Other",138
+1275022,Teacher-Led,Books,Applied Learning,College & Career Prep,139
+1279493,Teacher-Led,Computers & Tablets,History & Civics,Financial Literacy,140
+1281515,Teacher-Led,Books,Health & Sports,Team Sports,141
+1289445,Teacher-Led,Computers & Tablets,"Applied Learning, History & Civics","Character Education, Social Sciences",142
+1296192,Teacher-Led,Art Supplies,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",143
+1307183,Teacher-Led,Trips,"Applied Learning, Music & The Arts","College & Career Prep, Performing Arts",144
+1313509,Teacher-Led,"Reading Nooks, Desks & Storage","Literacy & Language, Applied Learning","Literacy, Parent Involvement",145
+1314914,Teacher-Led,"Food, Clothing & Hygiene",Math & Science,Health & Life Science,146
+1314983,Teacher-Led,Other,"Math & Science, Special Needs","Applied Sciences, Special Needs",147
+1315118,Teacher-Led,Computers & Tablets,"Applied Learning, Literacy & Language","College & Career Prep, Literature & Writing",148
+1315319,Teacher-Led,Supplies,"Health & Sports, History & Civics","Health & Wellness, Social Sciences",149
+1316291,Student-Led,Technology,"Applied Learning, Music & The Arts","Community Service, Performing Arts",150
+1316363,Student-Led,Supplies,Health & Sports,"Gym & Fitness, Team Sports",151
+1316467,Teacher-Led,Other,"Literacy & Language, History & Civics","ESL, History & Geography",152
+1316557,Teacher-Led,Other,Applied Learning,"Early Development, Other",153
+1316603,Teacher-Led,Visitors,Applied Learning,Early Development,154
+1320676,Student-Led,Books,Literacy & Language,"Literacy, Literature & Writing",155
+1324669,Teacher-Led,Technology,"Literacy & Language, Applied Learning","Literature & Writing, Parent Involvement",156
+1329075,Teacher-Led,Other,History & Civics,History & Geography,157
+1332576,Teacher-Led,Instructional Technology,"Health & Sports, Math & Science","Health & Wellness, Mathematics",158
+1342087,Teacher-Led,Books,"Literacy & Language, Math & Science","ESL, Mathematics",159
+1368670,Teacher-Led,Other,"Math & Science, Applied Learning","Environmental Science, Extracurricular",160
+1372855,Teacher-Led,"Food, Clothing & Hygiene",History & Civics,Financial Literacy,161
+1375724,Teacher-Led,Trips,"Applied Learning, Health & Sports","Community Service, Team Sports",162
+1375753,Teacher-Led,Trips,Health & Sports,Team Sports,163
+1377345,Teacher-Led,Books,Applied Learning,"Character Education, Other",164
+1380477,Student-Led,Trips,"Literacy & Language, Music & The Arts","Literacy, Visual Arts",165
+1388178,Student-Led,Other,"Math & Science, Health & Sports","Environmental Science, Health & Wellness",166
+1392932,Teacher-Led,Technology,"Health & Sports, Applied Learning","Health & Wellness, Other",167
+1402349,Teacher-Led,Flexible Seating,Math & Science,Environmental Science,168
+1403168,Teacher-Led,Supplies,Applied Learning,"Other, Parent Involvement",169
+1403542,Teacher-Led,Flexible Seating,History & Civics,"History & Geography, Social Sciences",170
+1403591,Teacher-Led,Other,"Math & Science, Literacy & Language","Health & Life Science, Literacy",171
+1403611,Teacher-Led,"Reading Nooks, Desks & Storage","Health & Sports, History & Civics","Health & Wellness, Social Sciences",172
+1405531,Teacher-Led,Computers & Tablets,Applied Learning,Early Development,173
+1410648,Teacher-Led,Books,"Applied Learning, Health & Sports","Extracurricular, Health & Wellness",174
+1411465,Student-Led,Supplies,Health & Sports,Team Sports,175
+1411859,Professional Development,Books,"Literacy & Language, Math & Science","Literacy, Mathematics",176
+1412341,Teacher-Led,Lab Equipment,"Math & Science, Literacy & Language","Applied Sciences, Literature & Writing",177
+1414564,Teacher-Led,Other,"Health & Sports, Math & Science","Gym & Fitness, Health & Life Science",178
+1421681,Teacher-Led,Computers & Tablets,"Applied Learning, Literacy & Language","College & Career Prep, ESL",179
+1430051,Teacher-Led,Technology,History & Civics,"Financial Literacy, Social Sciences",180
+1430067,Teacher-Led,Technology,History & Civics,"Economics, History & Geography",181
+1430099,Teacher-Led,Other,History & Civics,"History & Geography, Social Sciences",182
+1431734,Teacher-Led,Art Supplies,Applied Learning,Other,183
+1431934,Teacher-Led,Educational Kits & Games,"Math & Science, Literacy & Language","Applied Sciences, Literacy",184
+1435417,Teacher-Led,Supplies,"Math & Science, Music & The Arts","Applied Sciences, Music",185
+1435551,Teacher-Led,Musical Instruments,Music & The Arts,Performing Arts,186
+1435556,Teacher-Led,"Reading Nooks, Desks & Storage","Applied Learning, Music & The Arts","Early Development, Music",187
+1435570,Teacher-Led,Art Supplies,Applied Learning,Early Development,188
+1435587,Teacher-Led,Instructional Technology,Literacy & Language,ESL,189
+1438154,Teacher-Led,Instructional Technology,"Math & Science, Literacy & Language","Applied Sciences, ESL",190
+1439035,Teacher-Led,Technology,"Health & Sports, Literacy & Language","Health & Wellness, Literacy",191
+1445221,Teacher-Led,"Food, Clothing & Hygiene","Math & Science, Literacy & Language","Applied Sciences, Literacy",192
+1445314,Teacher-Led,Classroom Basics,"Applied Learning, Special Needs","Early Development, Special Needs",193
+1445381,Teacher-Led,Educational Kits & Games,Health & Sports,Gym & Fitness,194
+1445394,Professional Development,Trips,Music & The Arts,Visual Arts,195
+1445456,Teacher-Led,Trips,"Applied Learning, Literacy & Language","Character Education, Literature & Writing",196
+1445469,Teacher-Led,Technology,"Math & Science, History & Civics","Applied Sciences, History & Geography",197
+1445526,Teacher-Led,Computers & Tablets,"Literacy & Language, Music & The Arts","Literature & Writing, Performing Arts",198
+1445561,Teacher-Led,"Reading Nooks, Desks & Storage",Applied Learning,"College & Career Prep, Parent Involvement",199
+1445573,Teacher-Led,Supplies,"Applied Learning, Math & Science","Extracurricular, Mathematics",200
+1445584,Teacher-Led,Instructional Technology,Applied Learning,"Early Development, Other",201
+1445588,Teacher-Led,Instructional Technology,"Applied Learning, Literacy & Language","College & Career Prep, Literacy",202
+1445617,Teacher-Led,Books,"Applied Learning, Special Needs","Other, Special Needs",203
+1445718,Teacher-Led,Books,History & Civics,"Economics, Financial Literacy",204
+1445719,Professional Development,Trips,Applied Learning,Other,205
+1445745,Teacher-Led,Technology,"Math & Science, Applied Learning","Applied Sciences, Parent Involvement",206
+1445755,Teacher-Led,Technology,"History & Civics, Applied Learning","Economics, Extracurricular",207
+1445777,Teacher-Led,Books,"Special Needs, Music & The Arts","Special Needs, Visual Arts",208
+1445809,Teacher-Led,Technology,"Applied Learning, Math & Science","College & Career Prep, Health & Life Science",209
+1445827,Teacher-Led,Classroom Basics,"Applied Learning, Special Needs","College & Career Prep, Special Needs",210
+1445833,Teacher-Led,Classroom Basics,"Literacy & Language, Special Needs","Literacy, Special Needs",211
+1445904,Teacher-Led,Instructional Technology,"History & Civics, Applied Learning","History & Geography, Parent Involvement",212
+1448577,Teacher-Led,Trips,"Applied Learning, Literacy & Language","College & Career Prep, Literacy",213
+1452536,Teacher-Led,Supplies,"Applied Learning, Special Needs","Parent Involvement, Special Needs",214
+1455536,Teacher-Led,Visitors,Applied Learning,Character Education,215
+1455602,Teacher-Led,Visitors,"Literacy & Language, Health & Sports","Foreign Languages, Gym & Fitness",216
+1459105,Teacher-Led,"Reading Nooks, Desks & Storage",Health & Sports,Health & Wellness,217
+1461350,Teacher-Led,Trips,History & Civics,Social Sciences,218
+1468453,Teacher-Led,Sports & Exercise Equipment,Special Needs,Special Needs,219
+1468456,Teacher-Led,Computers & Tablets,"Applied Learning, Health & Sports","Character Education, Gym & Fitness",220
+1468467,Student-Led,Books,Health & Sports,Health & Wellness,221
+1468471,Teacher-Led,Classroom Basics,"Applied Learning, Health & Sports","Extracurricular, Nutrition Education",222
+1468473,Teacher-Led,Instructional Technology,"Health & Sports, Special Needs","Health & Wellness, Special Needs",223
+1468475,Teacher-Led,Flexible Seating,"Applied Learning, Health & Sports","Early Development, Health & Wellness",224
+1468488,Teacher-Led,Educational Kits & Games,"Applied Learning, Health & Sports","Character Education, Health & Wellness",225
+1468492,Teacher-Led,Sports & Exercise Equipment,"Applied Learning, Health & Sports","Character Education, Team Sports",226
+1468495,Teacher-Led,Books,"Applied Learning, Health & Sports","Character Education, Health & Wellness",227
+1468497,Teacher-Led,"Reading Nooks, Desks & Storage","Literacy & Language, Math & Science","ESL, Mathematics",228
+1468518,Teacher-Led,Educational Kits & Games,"Health & Sports, Literacy & Language","Health & Wellness, Literacy",229
+1468529,Teacher-Led,"Food, Clothing & Hygiene",Health & Sports,"Gym & Fitness, Health & Wellness",230
+1468533,Teacher-Led,Sports & Exercise Equipment,"Health & Sports, Music & The Arts","Gym & Fitness, Performing Arts",231
+1468541,Teacher-Led,"Food, Clothing & Hygiene","Literacy & Language, Special Needs","Literacy, Special Needs",232
+1468562,Teacher-Led,Computers & Tablets,"Health & Sports, Special Needs","Health & Wellness, Special Needs",233
+1468764,Teacher-Led,Trips,"Math & Science, Health & Sports","Environmental Science, Team Sports",234
+1468955,Teacher-Led,Other,"Math & Science, History & Civics","Environmental Science, Social Sciences",235
+1469223,Professional Development,Books,Math & Science,"Applied Sciences, Environmental Science",236
+1469315,Teacher-Led,Trips,"History & Civics, Music & The Arts","History & Geography, Visual Arts",237
+1472150,Teacher-Led,Other,"Applied Learning, Music & The Arts","Early Development, Visual Arts",238
+1472161,Teacher-Led,Flexible Seating,"Literacy & Language, Special Needs","ESL, Special Needs",239
+1472164,Teacher-Led,Books,"Applied Learning, Special Needs","Early Development, Special Needs",240
+1483441,Teacher-Led,Visitors,Math & Science,Environmental Science,241
+1489991,Teacher-Led,Other,"Math & Science, Literacy & Language","Health & Life Science, Literature & Writing",242
+1490150,Teacher-Led,Other,"Literacy & Language, Applied Learning","ESL, Early Development",243
+1492395,Teacher-Led,Trips,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",244
+1498154,Teacher-Led,Trips,"Applied Learning, Math & Science","Community Service, Health & Life Science",245
+1499558,Teacher-Led,Visitors,"Applied Learning, Literacy & Language","Character Education, Literature & Writing",246
+1507530,Student-Led,Technology,"Math & Science, Special Needs","Health & Life Science, Special Needs",247
+1507531,Teacher-Led,Other,"Applied Learning, Music & The Arts","Extracurricular, Performing Arts",248
+1508049,Teacher-Led,Books,"Math & Science, Health & Sports","Environmental Science, Nutrition Education",249
+1520695,Teacher-Led,Other,"Applied Learning, Literacy & Language","College & Career Prep, Literacy",250
+1520715,Teacher-Led,Trips,"Health & Sports, Music & The Arts","Health & Wellness, Performing Arts",251
+1524683,Teacher-Led,Sports & Exercise Equipment,Health & Sports,"Gym & Fitness, Nutrition Education",252
+1525177,Teacher-Led,Lab Equipment,Math & Science,"Environmental Science, Mathematics",253
+1543318,Teacher-Led,Art Supplies,Special Needs,Special Needs,254
+1552047,Professional Development,Trips,"Applied Learning, Special Needs","Character Education, Special Needs",255
+1563433,Professional Development,Trips,Math & Science,Applied Sciences,256
+1569709,Teacher-Led,Technology,"Literacy & Language, Applied Learning","ESL, Early Development",257
+1584686,Teacher-Led,Supplies,"Math & Science, Health & Sports","Mathematics, Team Sports",258
+1600010,Teacher-Led,Books,Health & Sports,"Health & Wellness, Team Sports",259
+1601339,Teacher-Led,Other,Applied Learning,"Character Education, Early Development",260
+1602515,Teacher-Led,Supplies,Music & The Arts,"Performing Arts, Visual Arts",261
+1604287,Teacher-Led,Classroom Basics,Math & Science,"Applied Sciences, Mathematics",262
+1604500,Teacher-Led,Trips,"Applied Learning, Health & Sports","Character Education, Gym & Fitness",263
+1605095,Teacher-Led,Other,"Applied Learning, Health & Sports","College & Career Prep, Nutrition Education",264
+1605480,Student-Led,Visitors,"Literacy & Language, Music & The Arts","Literature & Writing, Performing Arts",265
+1605483,Teacher-Led,Computers & Tablets,"Math & Science, Literacy & Language","Health & Life Science, Literacy",266
+1605536,Teacher-Led,Technology,"Math & Science, Applied Learning","Applied Sciences, Early Development",267
+1605576,Teacher-Led,Supplies,"Literacy & Language, Music & The Arts","ESL, Visual Arts",268
+1610250,Teacher-Led,Other,Math & Science,Environmental Science,269
+1612974,Teacher-Led,Instructional Technology,Applied Learning,College & Career Prep,270
+1616295,Teacher-Led,Technology,"Applied Learning, History & Civics","Character Education, History & Geography",271
+1620151,Teacher-Led,Computers & Tablets,"Math & Science, Literacy & Language","Environmental Science, Literacy",272
+1620233,Student-Led,Technology,Applied Learning,"College & Career Prep, Other",273
+1620276,Teacher-Led,Computers & Tablets,Math & Science,Environmental Science,274
+1620332,Teacher-Led,Sports & Exercise Equipment,"Special Needs, Health & Sports","Special Needs, Team Sports",275
+1625980,Teacher-Led,Computers & Tablets,Applied Learning,College & Career Prep,276
+1628538,Professional Development,Books,"Literacy & Language, Special Needs","Literacy, Special Needs",277
+1631838,Teacher-Led,Books,"Math & Science, Special Needs","Applied Sciences, Special Needs",278
+1633123,Teacher-Led,Supplies,"History & Civics, Music & The Arts","Civics & Government, Visual Arts",279
+1633253,Teacher-Led,Supplies,"Math & Science, History & Civics","Applied Sciences, Economics",280
+1633370,Teacher-Led,Trips,"History & Civics, Math & Science","Civics & Government, Environmental Science",281
+1633591,Teacher-Led,Other,"Applied Learning, Music & The Arts","College & Career Prep, Visual Arts",282
+1633680,Teacher-Led,Technology,"Literacy & Language, History & Civics","Foreign Languages, History & Geography",283
+1633705,Teacher-Led,Visitors,Applied Learning,"Character Education, Other",284
+1635498,Professional Development,Trips,"Health & Sports, Special Needs","Health & Wellness, Special Needs",285
+1637233,Teacher-Led,Technology,"Math & Science, History & Civics","Applied Sciences, Financial Literacy",286
+1637363,Teacher-Led,Trips,"History & Civics, Music & The Arts","Civics & Government, Performing Arts",287
+1640544,Teacher-Led,Supplies,"History & Civics, Music & The Arts","Civics & Government, Performing Arts",288
+1643634,Teacher-Led,Sports & Exercise Equipment,"Literacy & Language, History & Civics","ESL, History & Geography",289
+1643646,Teacher-Led,Art Supplies,"Special Needs, Music & The Arts","Special Needs, Visual Arts",290
+1645396,Teacher-Led,Books,Health & Sports,"Health & Wellness, Nutrition Education",291
+1666709,Teacher-Led,Trips,"Literacy & Language, History & Civics","Foreign Languages, Social Sciences",292
+1666733,Student-Led,Supplies,Math & Science,"Environmental Science, Health & Life Science",293
+1672208,Teacher-Led,Books,Applied Learning,"Character Education, College & Career Prep",294
+1675345,Teacher-Led,Technology,"Math & Science, History & Civics","Mathematics, Social Sciences",295
+1676460,Teacher-Led,Supplies,"Literacy & Language, Music & The Arts","Foreign Languages, Visual Arts",296
+1688830,Teacher-Led,Other,"Applied Learning, Math & Science","Early Development, Environmental Science",297
+1693956,Teacher-Led,Trips,"Math & Science, Applied Learning","Applied Sciences, College & Career Prep",298
+1696472,Teacher-Led,Trips,"Literacy & Language, Applied Learning","ESL, Early Development",299
+1708626,Professional Development,Trips,Literacy & Language,ESL,300
+1708911,Teacher-Led,Trips,"History & Civics, Music & The Arts","History & Geography, Performing Arts",301
+1708919,Teacher-Led,Supplies,Applied Learning,"College & Career Prep, Parent Involvement",302
+1708929,Teacher-Led,Supplies,"Literacy & Language, Math & Science","ESL, Health & Life Science",303
+1709090,Teacher-Led,Trips,Literacy & Language,"Foreign Languages, Literacy",304
+1709098,Teacher-Led,Instructional Technology,History & Civics,"History & Geography, Social Sciences",305
+1709099,Teacher-Led,"Food, Clothing & Hygiene",Math & Science,"Applied Sciences, Mathematics",306
+1714780,Teacher-Led,Technology,"Literacy & Language, Math & Science","Foreign Languages, Mathematics",307
+1718714,Professional Development,Supplies,Literacy & Language,Literature & Writing,308
+1724960,Teacher-Led,Supplies,"Health & Sports, Warmth, Care & Hunger","Health & Wellness, Warmth, Care & Hunger",309
+1731123,Teacher-Led,Books,"Literacy & Language, Health & Sports","Literature & Writing, Nutrition Education",310
+1747012,Teacher-Led,Other,"Applied Learning, Math & Science","Early Development, Mathematics",311
+1750329,Teacher-Led,Visitors,Literacy & Language,"Literacy, Literature & Writing",312
+1753349,Teacher-Led,Technology,"Applied Learning, History & Civics","Community Service, History & Geography",313
+1756015,Teacher-Led,Art Supplies,Math & Science,Applied Sciences,314
+1766558,Teacher-Led,Books,"Literacy & Language, Music & The Arts","Literacy, Music",315
+1766858,Teacher-Led,Books,Literacy & Language,"Foreign Languages, Literature & Writing",316
+1767407,Teacher-Led,Computers & Tablets,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",317
+1767541,Teacher-Led,Flexible Seating,"Literacy & Language, Applied Learning","Literature & Writing, Other",318
+1767549,Teacher-Led,Flexible Seating,Literacy & Language,Literature & Writing,319
+1767560,Teacher-Led,Educational Kits & Games,"Applied Learning, Literacy & Language","Early Development, Literacy",320
+1767567,Teacher-Led,Flexible Seating,"Applied Learning, Literacy & Language","Early Development, Literacy",321
+1771634,Student-Led,Technology,"History & Civics, Music & The Arts","Civics & Government, Visual Arts",322
+1780455,Teacher-Led,"Reading Nooks, Desks & Storage",Math & Science,"Applied Sciences, Mathematics",323
+1784379,Teacher-Led,Trips,"Math & Science, Applied Learning","Applied Sciences, Parent Involvement",324
+1784967,Professional Development,Trips,History & Civics,"History & Geography, Social Sciences",325
+1786144,Teacher-Led,Other,"Math & Science, History & Civics","Health & Life Science, Social Sciences",326
+1786315,Teacher-Led,Other,Applied Learning,"Character Education, Other",327
+1787343,Teacher-Led,Technology,"Music & The Arts, Applied Learning","Music, Other",328
+1788015,Teacher-Led,Supplies,"Health & Sports, Math & Science","Health & Wellness, Mathematics",329
+1791889,Teacher-Led,Computers & Tablets,"Applied Learning, Literacy & Language","Extracurricular, Literature & Writing",330
+1800443,Teacher-Led,Lab Equipment,"Math & Science, Applied Learning","Applied Sciences, College & Career Prep",331
+1802177,Teacher-Led,Educational Kits & Games,"Applied Learning, Health & Sports","Early Development, Gym & Fitness",332
+1807564,Teacher-Led,Technology,"History & Civics, Music & The Arts","Civics & Government, Visual Arts",333
+1811144,Teacher-Led,Trips,Math & Science,"Applied Sciences, Health & Life Science",334
+1814360,Teacher-Led,Other,Applied Learning,"Community Service, Extracurricular",335
+1815282,Teacher-Led,Technology,Applied Learning,"College & Career Prep, Extracurricular",336
+1816183,Teacher-Led,Supplies,"Math & Science, History & Civics","Health & Life Science, Social Sciences",337
+1838215,Teacher-Led,Trips,"Applied Learning, History & Civics","Character Education, History & Geography",338
+1841652,Teacher-Led,Instructional Technology,Literacy & Language,Literature & Writing,339
+1844791,Teacher-Led,Lab Equipment,Literacy & Language,"Literacy, Literature & Writing",340
+1852840,Professional Development,Supplies,Math & Science,Mathematics,341
+1862538,Teacher-Led,Flexible Seating,"Health & Sports, Literacy & Language","Health & Wellness, Literacy",342
+1862582,Teacher-Led,Computers & Tablets,"History & Civics, Literacy & Language","Civics & Government, Literature & Writing",343
+1868609,Student-Led,Supplies,Math & Science,"Applied Sciences, Environmental Science",344
+1868651,Teacher-Led,Supplies,"History & Civics, Special Needs","Social Sciences, Special Needs",345
+1868910,Teacher-Led,Educational Kits & Games,Applied Learning,"Character Education, Parent Involvement",346
+1871050,Teacher-Led,Computers & Tablets,"Literacy & Language, History & Civics","Literature & Writing, Social Sciences",347
+1871075,Teacher-Led,Flexible Seating,"Applied Learning, Special Needs","Other, Special Needs",348
+1874989,Teacher-Led,Books,"Literacy & Language, Music & The Arts","ESL, Visual Arts",349
+1875003,Teacher-Led,Trips,"Applied Learning, History & Civics","Character Education, Social Sciences",350
+1875005,Teacher-Led,Trips,Literacy & Language,"ESL, Literacy",351
+1879252,Student-Led,Books,"Applied Learning, Music & The Arts","Community Service, Visual Arts",352
+1879279,Teacher-Led,Trips,Math & Science,Mathematics,353
+1881603,Teacher-Led,Educational Kits & Games,Literacy & Language,Literature & Writing,354
+1882921,Teacher-Led,Books,"Literacy & Language, Music & The Arts","Foreign Languages, Visual Arts",355
+1883126,Professional Development,Books,"Applied Learning, History & Civics","Character Education, Civics & Government",356
+1895024,Teacher-Led,Books,History & Civics,"Civics & Government, Social Sciences",357
+1895069,Professional Development,Technology,"Literacy & Language, Special Needs","Literacy, Special Needs",358
+1895106,Teacher-Led,Trips,Health & Sports,"Gym & Fitness, Health & Wellness",359
+1895515,Teacher-Led,Technology,"Applied Learning, Math & Science","Early Development, Health & Life Science",360
+1900804,Teacher-Led,Technology,"Applied Learning, Music & The Arts","Community Service, Visual Arts",361
+1909363,Teacher-Led,Trips,Literacy & Language,"Literacy, Literature & Writing",362
+1914860,Teacher-Led,Visitors,"History & Civics, Music & The Arts","Civics & Government, Performing Arts",363
+1918599,Teacher-Led,Supplies,History & Civics,"Civics & Government, History & Geography",364
+1920023,Student-Led,Technology,Math & Science,Applied Sciences,365
+1930783,Professional Development,Trips,Literacy & Language,"ESL, Literacy",366
+1940150,Teacher-Led,Art Supplies,"Applied Learning, Music & The Arts","Parent Involvement, Visual Arts",367
+1945897,Teacher-Led,Supplies,History & Civics,"Economics, History & Geography",368
+1951467,Professional Development,Books,Math & Science,"Health & Life Science, Mathematics",369
+1958525,Teacher-Led,Books,"Literacy & Language, Health & Sports","ESL, Health & Wellness",370
+1960809,Teacher-Led,Books,Applied Learning,"Character Education, Extracurricular",371
+1967396,Teacher-Led,Technology,Applied Learning,"Character Education, College & Career Prep",372
+1968862,Teacher-Led,Lab Equipment,Math & Science,"Applied Sciences, Mathematics",373
+1968868,Teacher-Led,Instructional Technology,History & Civics,"Civics & Government, Social Sciences",374
+1968892,Teacher-Led,Instructional Technology,"Literacy & Language, Applied Learning","Literacy, Other",375
+1968959,Teacher-Led,Lab Equipment,Applied Learning,"College & Career Prep, Other",376
+1969025,Teacher-Led,Art Supplies,"Applied Learning, Music & The Arts","Community Service, Visual Arts",377
+1969102,Teacher-Led,Flexible Seating,"Math & Science, Health & Sports","Health & Life Science, Health & Wellness",378
+1969114,Teacher-Led,Visitors,Math & Science,"Applied Sciences, Environmental Science",379
+1969168,Professional Development,Trips,"History & Civics, Special Needs","Financial Literacy, Special Needs",380
+1970044,Teacher-Led,Classroom Basics,"Literacy & Language, Special Needs","ESL, Special Needs",381
+1972392,Teacher-Led,Supplies,"Math & Science, Health & Sports","Applied Sciences, Gym & Fitness",382
+1975604,Teacher-Led,Other,"Applied Learning, Health & Sports","Extracurricular, Health & Wellness",383
+1980553,Teacher-Led,Other,Applied Learning,Character Education,384
+1984114,Student-Led,Other,Music & The Arts,"Music, Performing Arts",385
+1987903,Teacher-Led,Trips,"Applied Learning, History & Civics","College & Career Prep, History & Geography",386
+1991401,Teacher-Led,Visitors,"History & Civics, Music & The Arts","History & Geography, Visual Arts",387
+1992972,Teacher-Led,Books,"Math & Science, Music & The Arts","Applied Sciences, Music",388
+1993928,Professional Development,Trips,"Applied Learning, Literacy & Language","Character Education, Literacy",389
+1994204,Teacher-Led,Visitors,"Applied Learning, Literacy & Language","College & Career Prep, Literature & Writing",390
+1996296,Teacher-Led,Supplies,"Math & Science, Health & Sports","Applied Sciences, Nutrition Education",391
+1999597,Teacher-Led,"Food, Clothing & Hygiene",Health & Sports,"Health & Wellness, Nutrition Education",392
+2000473,Teacher-Led,Technology,"Math & Science, Special Needs","Environmental Science, Special Needs",393
+2014416,Teacher-Led,Musical Instruments,Music & The Arts,Music,394
+2014549,Teacher-Led,Other,"Applied Learning, History & Civics","College & Career Prep, Economics",395
+2014874,Teacher-Led,Other,"Literacy & Language, Music & The Arts","Literature & Writing, Visual Arts",396
+2019730,Teacher-Led,Visitors,Health & Sports,"Health & Wellness, Team Sports",397
+2025530,Teacher-Led,Supplies,"Applied Learning, History & Civics","College & Career Prep, History & Geography",398
+2030071,Teacher-Led,Books,"Math & Science, Literacy & Language","Applied Sciences, Foreign Languages",399
+2030803,Teacher-Led,Books,"Literacy & Language, Music & The Arts","Literature & Writing, Music",400
+2031679,Teacher-Led,Educational Kits & Games,"History & Civics, Special Needs","Social Sciences, Special Needs",401
+2036183,Teacher-Led,Computers & Tablets,Literacy & Language,"Literacy, Literature & Writing",402
+2038216,Teacher-Led,Supplies,"Math & Science, Health & Sports","Environmental Science, Nutrition Education",403
+2040190,Teacher-Led,Educational Kits & Games,Literacy & Language,ESL,404
+2058015,Teacher-Led,Books,"Math & Science, History & Civics","Environmental Science, History & Geography",405
+2058947,Teacher-Led,Lab Equipment,Math & Science,"Applied Sciences, Environmental Science",406
+2061767,Teacher-Led,Books,"History & Civics, Math & Science","History & Geography, Mathematics",407
+2062868,Teacher-Led,Trips,Math & Science,Health & Life Science,408
+2067971,Teacher-Led,Trips,"Literacy & Language, Health & Sports","ESL, Health & Wellness",409
+2070541,Teacher-Led,Other,"Applied Learning, Music & The Arts","Extracurricular, Visual Arts",410
+2081530,Teacher-Led,Art Supplies,"Literacy & Language, Music & The Arts","Literature & Writing, Visual Arts",411
+2081734,Teacher-Led,"Reading Nooks, Desks & Storage",Literacy & Language,"ESL, Literature & Writing",412
+2084241,Teacher-Led,Instructional Technology,"Applied Learning, Music & The Arts","College & Career Prep, Visual Arts",413
+2087476,Student-Led,Other,Math & Science,Environmental Science,414
+2089771,Professional Development,Books,"Literacy & Language, Applied Learning","Foreign Languages, Parent Involvement",415
+2095701,Teacher-Led,Trips,Math & Science,"Applied Sciences, Mathematics",416
+2096114,Student-Led,Technology,"Applied Learning, Music & The Arts","College & Career Prep, Visual Arts",417
+2096135,Professional Development,Technology,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",418
+2096163,Teacher-Led,Books,"History & Civics, Literacy & Language","Civics & Government, Foreign Languages",419
+2096187,Teacher-Led,Supplies,"Music & The Arts, Special Needs","Music, Special Needs",420
+2108710,Teacher-Led,Computers & Tablets,"Literacy & Language, Math & Science","ESL, Mathematics",421
+2114112,Teacher-Led,Technology,"History & Civics, Music & The Arts","Social Sciences, Visual Arts",422
+2115590,Teacher-Led,Books,Applied Learning,"Character Education, Community Service",423
+2133902,Professional Development,Visitors,Health & Sports,Health & Wellness,424
+2134716,Professional Development,Trips,Music & The Arts,"Performing Arts, Visual Arts",425
+2138769,Teacher-Led,Trips,Applied Learning,"College & Career Prep, Parent Involvement",426
+2143852,Teacher-Led,Classroom Basics,"Applied Learning, Special Needs","Other, Special Needs",427
+2149225,Teacher-Led,Trips,"Literacy & Language, Music & The Arts","Literacy, Performing Arts",428
+2149679,Teacher-Led,Flexible Seating,Math & Science,"Environmental Science, Mathematics",429
+2154134,Teacher-Led,Technology,"Health & Sports, Music & The Arts","Gym & Fitness, Performing Arts",430
+2155284,Teacher-Led,Technology,"Applied Learning, History & Civics","Parent Involvement, Social Sciences",431
+2159466,Teacher-Led,Trips,"History & Civics, Special Needs","History & Geography, Special Needs",432
+2160777,Teacher-Led,Trips,"Applied Learning, Special Needs","Parent Involvement, Special Needs",433
+2163560,Teacher-Led,Other,Health & Sports,Gym & Fitness,434
+2174570,Teacher-Led,"Food, Clothing & Hygiene",Health & Sports,Health & Wellness,435
+2179217,Student-Led,Books,Literacy & Language,Literacy,436
+2183840,Professional Development,Technology,Math & Science,Mathematics,437
+2187246,Teacher-Led,Technology,"Health & Sports, Music & The Arts","Health & Wellness, Performing Arts",438
+2202532,Teacher-Led,Computers & Tablets,"Applied Learning, Math & Science","College & Career Prep, Mathematics",439
+2210074,Teacher-Led,Technology,History & Civics,Civics & Government,440
+2210226,Teacher-Led,Supplies,"Applied Learning, Math & Science","College & Career Prep, Environmental Science",441
+2212347,Teacher-Led,Supplies,"History & Civics, Special Needs","Financial Literacy, Special Needs",442
+2217051,Teacher-Led,Other,"Math & Science, Health & Sports","Mathematics, Team Sports",443
+2227439,Teacher-Led,Other,Literacy & Language,"Foreign Languages, Literacy",444
+2227460,Teacher-Led,Technology,Applied Learning,"Other, Parent Involvement",445
+2227739,Teacher-Led,Visitors,Math & Science,Mathematics,446
+2227880,Teacher-Led,Supplies,"Math & Science, Applied Learning","Applied Sciences, Extracurricular",447
+2227922,Teacher-Led,Classroom Basics,"Health & Sports, Special Needs","Health & Wellness, Special Needs",448
+2233350,Teacher-Led,Supplies,"History & Civics, Music & The Arts","History & Geography, Performing Arts",449
+2236530,Teacher-Led,Books,"Applied Learning, Literacy & Language","Extracurricular, Literacy",450
+2236550,Teacher-Led,Art Supplies,Literacy & Language,"ESL, Literacy",451
+2236653,Teacher-Led,Technology,"Applied Learning, Special Needs","Character Education, Special Needs",452
+2241367,Teacher-Led,Classroom Basics,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",453
+2241536,Student-Led,Supplies,Applied Learning,"College & Career Prep, Extracurricular",454
+2247875,Teacher-Led,Other,Applied Learning,"Extracurricular, Other",455
+2252209,Teacher-Led,Supplies,"Special Needs, Health & Sports","Special Needs, Team Sports",456
+2252216,Teacher-Led,Art Supplies,"Literacy & Language, Math & Science","Literacy, Mathematics",457
+2252632,Teacher-Led,Books,"Health & Sports, Special Needs","Health & Wellness, Special Needs",458
+2253672,Teacher-Led,Books,"Math & Science, Music & The Arts","Mathematics, Music",459
+2263838,Teacher-Led,Educational Kits & Games,Applied Learning,"Character Education, Extracurricular",460
+2263855,Teacher-Led,Other,"Literacy & Language, Math & Science","ESL, Mathematics",461
+2263891,Teacher-Led,Educational Kits & Games,Literacy & Language,Literacy,462
+2263904,Teacher-Led,Supplies,"Health & Sports, Literacy & Language","Health & Wellness, Literature & Writing",463
+2263931,Teacher-Led,Supplies,Applied Learning,Extracurricular,464
+2264085,Teacher-Led,"Reading Nooks, Desks & Storage",Applied Learning,"Character Education, Early Development",465
+2264116,Teacher-Led,Trips,"Special Needs, Music & The Arts","Special Needs, Visual Arts",466
+2266911,Teacher-Led,Instructional Technology,Math & Science,"Environmental Science, Health & Life Science",467
+2269716,Teacher-Led,Technology,"Literacy & Language, Music & The Arts","Foreign Languages, Visual Arts",468
+2272004,Teacher-Led,Other,"History & Civics, Music & The Arts","Civics & Government, Visual Arts",469
+2272008,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","Parent Involvement, Visual Arts",470
+2272019,Teacher-Led,Instructional Technology,Math & Science,"Environmental Science, Mathematics",471
+2273181,Teacher-Led,Other,"Math & Science, Special Needs","Mathematics, Special Needs",472
+2274245,Teacher-Led,Computers & Tablets,"Math & Science, Music & The Arts","Mathematics, Visual Arts",473
+2285576,Teacher-Led,Books,Applied Learning,"Character Education, Early Development",474
+2291449,Professional Development,Trips,Special Needs,Special Needs,475
+2291498,Teacher-Led,Books,Applied Learning,"College & Career Prep, Community Service",476
+2303324,Teacher-Led,Technology,"Applied Learning, Math & Science","Community Service, Environmental Science",477
+2303375,Teacher-Led,Supplies,"Literacy & Language, Music & The Arts","Literature & Writing, Music",478
+2303813,Teacher-Led,Other,"Literacy & Language, Math & Science","ESL, Environmental Science",479
+2304386,Teacher-Led,Visitors,"Math & Science, Special Needs","Environmental Science, Special Needs",480
+2304448,Teacher-Led,Trips,"Literacy & Language, Math & Science","ESL, Health & Life Science",481
+2329672,Teacher-Led,Technology,"Health & Sports, Applied Learning","Health & Wellness, Parent Involvement",482
+2330727,Teacher-Led,Supplies,Applied Learning,"Community Service, Extracurricular",483
+2330904,Professional Development,Trips,"History & Civics, Literacy & Language","History & Geography, Literacy",484
+2332520,Teacher-Led,Books,"Applied Learning, Literacy & Language","Community Service, Literature & Writing",485
+2332887,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","College & Career Prep, Performing Arts",486
+2332913,Teacher-Led,Books,History & Civics,Financial Literacy,487
+2342225,Student-Led,Classroom Basics,"Applied Learning, Special Needs","Community Service, Special Needs",488
+2359631,Teacher-Led,Technology,"Applied Learning, Math & Science","College & Career Prep, Environmental Science",489
+2363124,Teacher-Led,Other,Health & Sports,"Health & Wellness, Nutrition Education",490
+2364445,Teacher-Led,Supplies,"Math & Science, Music & The Arts","Applied Sciences, Performing Arts",491
+2364478,Teacher-Led,Other,Applied Learning,"College & Career Prep, Community Service",492
+2368025,Teacher-Led,Other,"Literacy & Language, Music & The Arts","Literature & Writing, Music",493
+2370584,Teacher-Led,Technology,"Literacy & Language, Special Needs","Foreign Languages, Special Needs",494
+2379487,Student-Led,Technology,Music & The Arts,Visual Arts,495
+2385364,Teacher-Led,Instructional Technology,"Literacy & Language, Applied Learning","ESL, Early Development",496
+2385383,Teacher-Led,Classroom Basics,Literacy & Language,"ESL, Literature & Writing",497
+2385384,Professional Development,Books,Applied Learning,Character Education,498
+2385394,Teacher-Led,Books,History & Civics,"Civics & Government, History & Geography",499
+2385473,Teacher-Led,"Food, Clothing & Hygiene","Health & Sports, Special Needs","Gym & Fitness, Special Needs",500
+2385756,Teacher-Led,Technology,"Health & Sports, Special Needs","Health & Wellness, Special Needs",501
+2391881,Teacher-Led,Books,"Math & Science, History & Civics","Health & Life Science, Social Sciences",502
+2394462,Teacher-Led,Other,"Math & Science, Music & The Arts","Health & Life Science, Music",503
+2395655,Teacher-Led,Supplies,History & Civics,Social Sciences,504
+2397263,Professional Development,Trips,Literacy & Language,Literacy,505
+2398483,Teacher-Led,Books,"Applied Learning, Music & The Arts","College & Career Prep, Visual Arts",506
+2398508,Teacher-Led,Classroom Basics,"Applied Learning, Literacy & Language","College & Career Prep, Literacy",507
+2414070,Teacher-Led,Other,"Math & Science, Music & The Arts","Mathematics, Visual Arts",508
+2414112,Teacher-Led,"Reading Nooks, Desks & Storage","Applied Learning, Literacy & Language","Early Development, Literature & Writing",509
+2414356,Teacher-Led,"Reading Nooks, Desks & Storage",Special Needs,Special Needs,510
+2421039,Student-Led,Supplies,Math & Science,"Health & Life Science, Mathematics",511
+2421076,Teacher-Led,Computers & Tablets,Applied Learning,"Character Education, College & Career Prep",512
+2425771,Teacher-Led,Supplies,Applied Learning,"Community Service, Other",513
+2443883,Teacher-Led,Educational Kits & Games,Literacy & Language,"Literacy, Literature & Writing",514
+2443886,Teacher-Led,Computers & Tablets,"Math & Science, Literacy & Language","Applied Sciences, Literacy",515
+2443923,Teacher-Led,Technology,"History & Civics, Special Needs","History & Geography, Special Needs",516
+2443951,Teacher-Led,Other,Literacy & Language,"ESL, Literature & Writing",517
+2444473,Student-Led,Supplies,Special Needs,Special Needs,518
+2447444,Teacher-Led,Books,Math & Science,"Health & Life Science, Mathematics",519
+2449699,Teacher-Led,Trips,"History & Civics, Special Needs","Social Sciences, Special Needs",520
+2454762,Teacher-Led,Other,Math & Science,"Environmental Science, Mathematics",521
+2456632,Professional Development,Trips,Health & Sports,Health & Wellness,522
+2461147,Teacher-Led,Technology,Health & Sports,"Health & Wellness, Nutrition Education",523
+2468531,Teacher-Led,Books,"Math & Science, Special Needs","Environmental Science, Special Needs",524
+2474470,Teacher-Led,Flexible Seating,"Literacy & Language, Health & Sports","ESL, Health & Wellness",525
+2475826,Teacher-Led,Books,Music & The Arts,Performing Arts,526
+2475827,Teacher-Led,Supplies,"Math & Science, History & Civics","Applied Sciences, Social Sciences",527
+2475837,Teacher-Led,"Reading Nooks, Desks & Storage",Math & Science,"Applied Sciences, Health & Life Science",528
+2476081,Teacher-Led,Computers & Tablets,"Literacy & Language, Math & Science","ESL, Health & Life Science",529
+2480654,Student-Led,Technology,"Applied Learning, Music & The Arts","Character Education, Visual Arts",530
+2485460,Teacher-Led,Instructional Technology,"Literacy & Language, Music & The Arts","Literacy, Visual Arts",531
+2488982,Professional Development,Technology,Health & Sports,Gym & Fitness,532
+2488986,Professional Development,Technology,Health & Sports,Health & Wellness,533
+2490989,Teacher-Led,Books,"Literacy & Language, History & Civics","ESL, Social Sciences",534
+2496499,Teacher-Led,Lab Equipment,Math & Science,"Environmental Science, Health & Life Science",535
+2504963,Teacher-Led,"Reading Nooks, Desks & Storage",Applied Learning,"Character Education, Other",536
+2504975,Teacher-Led,Sports & Exercise Equipment,Literacy & Language,"ESL, Literacy",537
+2504979,Teacher-Led,Technology,"Literacy & Language, Music & The Arts","ESL, Visual Arts",538
+2505535,Professional Development,Trips,Health & Sports,"Gym & Fitness, Health & Wellness",539
+2506643,Teacher-Led,Technology,"Math & Science, History & Civics","Applied Sciences, Social Sciences",540
+2509335,Teacher-Led,Sports & Exercise Equipment,Health & Sports,"Health & Wellness, Nutrition Education",541
+2516024,Teacher-Led,Supplies,"Applied Learning, Special Needs","College & Career Prep, Special Needs",542
+2518851,Teacher-Led,Computers & Tablets,"Math & Science, Special Needs","Health & Life Science, Special Needs",543
+2521561,Teacher-Led,Art Supplies,"Math & Science, Music & The Arts","Mathematics, Visual Arts",544
+2521599,Teacher-Led,Instructional Technology,"Literacy & Language, Special Needs","Literacy, Special Needs",545
+2521612,Teacher-Led,Computers & Tablets,"Math & Science, Special Needs","Mathematics, Special Needs",546
+2521621,Teacher-Led,"Food, Clothing & Hygiene",Literacy & Language,Literature & Writing,547
+2521630,Teacher-Led,"Reading Nooks, Desks & Storage","Applied Learning, Health & Sports","College & Career Prep, Health & Wellness",548
+2523170,Teacher-Led,Supplies,"Applied Learning, Math & Science","Character Education, Health & Life Science",549
+2523199,Student-Led,Technology,Math & Science,Health & Life Science,550
+2524744,Teacher-Led,Technology,"Applied Learning, Math & Science","Community Service, Health & Life Science",551
+2527090,Teacher-Led,Computers & Tablets,History & Civics,History & Geography,552
+2530791,Student-Led,Technology,"Applied Learning, Math & Science","College & Career Prep, Health & Life Science",553
+2533957,Teacher-Led,Trips,"Math & Science, History & Civics","Applied Sciences, Civics & Government",554
+2541902,Teacher-Led,Educational Kits & Games,"Literacy & Language, Music & The Arts","ESL, Performing Arts",555
+2541914,Teacher-Led,Books,"Literacy & Language, Special Needs","ESL, Special Needs",556
+2541915,Student-Led,Supplies,"Applied Learning, History & Civics","Character Education, Social Sciences",557
+2541942,Teacher-Led,Supplies,Applied Learning,"Extracurricular, Other",558
+2554540,Student-Led,Technology,"Literacy & Language, History & Civics","Literacy, Social Sciences",559
+2555048,Professional Development,Trips,Literacy & Language,Literature & Writing,560
+2559458,Teacher-Led,Books,"Applied Learning, Special Needs","Character Education, Special Needs",561
+2564428,Teacher-Led,Classroom Basics,"Math & Science, Special Needs","Mathematics, Special Needs",562
+2564802,Teacher-Led,Trips,"Applied Learning, Math & Science","Extracurricular, Mathematics",563
+2566724,Student-Led,Other,Math & Science,Applied Sciences,564
+2578590,Teacher-Led,Art Supplies,"Health & Sports, Special Needs","Health & Wellness, Special Needs",565
+2600392,Teacher-Led,Books,Applied Learning,Character Education,566
+2601545,Teacher-Led,Supplies,"Math & Science, Literacy & Language","Health & Life Science, Literature & Writing",567
+2607484,Teacher-Led,Technology,History & Civics,"Civics & Government, Economics",568
+2610518,Teacher-Led,Instructional Technology,"Applied Learning, Music & The Arts","Early Development, Music",569
+2610528,Teacher-Led,Classroom Basics,"History & Civics, Special Needs","History & Geography, Special Needs",570
+2612885,Teacher-Led,Other,"Literacy & Language, Music & The Arts","Literacy, Music",571
+2613595,Teacher-Led,Trips,"Applied Learning, Health & Sports","Extracurricular, Gym & Fitness",572
+2619189,Teacher-Led,Art Supplies,"Literacy & Language, Music & The Arts","Literacy, Visual Arts",573
+2622529,Teacher-Led,Technology,"Literacy & Language, Math & Science","ESL, Health & Life Science",574
+2624745,Student-Led,Trips,Literacy & Language,"Foreign Languages, Literature & Writing",575
+2629263,Teacher-Led,Other,Health & Sports,Nutrition Education,576
+2629788,Teacher-Led,Supplies,"Literacy & Language, History & Civics","ESL, History & Geography",577
+2630141,Teacher-Led,Sports & Exercise Equipment,Math & Science,Mathematics,578
+2630474,Teacher-Led,Technology,Applied Learning,"College & Career Prep, Parent Involvement",579
+2631039,Teacher-Led,Technology,"Applied Learning, History & Civics","College & Career Prep, Financial Literacy",580
+2639211,Teacher-Led,Technology,"Literacy & Language, Music & The Arts","Literacy, Performing Arts",581
+2648098,Teacher-Led,Technology,"Math & Science, History & Civics","Health & Life Science, Social Sciences",582
+2649457,Teacher-Led,Technology,Music & The Arts,"Music, Visual Arts",583
+2650200,Teacher-Led,Educational Kits & Games,"Math & Science, Applied Learning","Applied Sciences, Early Development",584
+2651247,Teacher-Led,Computers & Tablets,History & Civics,Civics & Government,585
+2652282,Teacher-Led,Trips,"Applied Learning, Math & Science","Community Service, Environmental Science",586
+2652306,Professional Development,Trips,Math & Science,"Applied Sciences, Environmental Science",587
+2653201,Teacher-Led,Books,"Math & Science, Applied Learning","Applied Sciences, College & Career Prep",588
+2655293,Teacher-Led,Technology,"Math & Science, Applied Learning","Mathematics, Other",589
+2665135,Teacher-Led,Trips,Applied Learning,Character Education,590
+2678620,Teacher-Led,Books,"Math & Science, Literacy & Language","Health & Life Science, Literature & Writing",591
+2680404,Teacher-Led,Trips,Music & The Arts,Music,592
+2680410,Teacher-Led,"Reading Nooks, Desks & Storage",Literacy & Language,ESL,593
+2680462,Teacher-Led,Technology,"Math & Science, Music & The Arts","Applied Sciences, Music",594
+2681940,Teacher-Led,Educational Kits & Games,"Math & Science, Special Needs","Applied Sciences, Special Needs",595
+2685794,Teacher-Led,Flexible Seating,"Literacy & Language, Special Needs","Literacy, Special Needs",596
+2691916,Teacher-Led,Supplies,"Math & Science, Applied Learning","Environmental Science, Other",597
+2695237,Teacher-Led,Computers & Tablets,Math & Science,Health & Life Science,598
+2695939,Teacher-Led,Instructional Technology,"Math & Science, Special Needs","Mathematics, Special Needs",599
+2696852,Teacher-Led,Computers & Tablets,"Math & Science, Special Needs","Environmental Science, Special Needs",600
+2699753,Teacher-Led,Trips,"Math & Science, Literacy & Language","Health & Life Science, Literacy",601
+2699778,Teacher-Led,Trips,"Math & Science, Music & The Arts","Applied Sciences, Performing Arts",602
+2704575,Teacher-Led,Supplies,History & Civics,Civics & Government,603
+2711348,Teacher-Led,Supplies,"History & Civics, Literacy & Language","History & Geography, Literacy",604
+2714346,Teacher-Led,Supplies,"Applied Learning, Health & Sports","College & Career Prep, Health & Wellness",605
+2716851,Teacher-Led,Lab Equipment,Health & Sports,Health & Wellness,606
+2716988,Teacher-Led,Other,"Math & Science, Applied Learning","Applied Sciences, Early Development",607
+2716997,Teacher-Led,Books,"Health & Sports, Warmth, Care & Hunger","Health & Wellness, Warmth, Care & Hunger",608
+2717312,Teacher-Led,Computers & Tablets,Music & The Arts,"Music, Performing Arts",609
+2718531,Teacher-Led,Lab Equipment,"Applied Learning, Math & Science","College & Career Prep, Mathematics",610
+2727609,Teacher-Led,Technology,"Literacy & Language, Applied Learning","Literature & Writing, Other",611
+2731650,Teacher-Led,Supplies,"Literacy & Language, Applied Learning","ESL, Other",612
+2732848,Teacher-Led,Other,Music & The Arts,"Performing Arts, Visual Arts",613
+2733984,Teacher-Led,Books,"Applied Learning, Literacy & Language","College & Career Prep, Literature & Writing",614
+2742587,Teacher-Led,Trips,"Literacy & Language, Music & The Arts","Foreign Languages, Visual Arts",615
+2744253,Teacher-Led,Supplies,"Math & Science, Literacy & Language","Environmental Science, Literature & Writing",616
+2750431,Teacher-Led,Technology,Literacy & Language,"ESL, Foreign Languages",617
+2751217,Teacher-Led,Supplies,"Math & Science, History & Civics","Environmental Science, History & Geography",618
+2753607,Teacher-Led,Books,"Literacy & Language, Health & Sports","Literacy, Team Sports",619
+2769854,Professional Development,Trips,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",620
+2772553,Teacher-Led,Supplies,Applied Learning,"Early Development, Other",621
+2773262,Teacher-Led,Trips,Math & Science,"Applied Sciences, Environmental Science",622
+2774050,Teacher-Led,Books,"Applied Learning, Literacy & Language","Extracurricular, Literature & Writing",623
+2774081,Teacher-Led,Other,"History & Civics, Literacy & Language","History & Geography, Literacy",624
+2783651,Teacher-Led,"Reading Nooks, Desks & Storage",Literacy & Language,"ESL, Literacy",625
+2785299,Teacher-Led,Educational Kits & Games,Math & Science,Applied Sciences,626
+2786232,Teacher-Led,Trips,"Math & Science, Literacy & Language","Environmental Science, Literacy",627
+2787188,Teacher-Led,Instructional Technology,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",628
+2788282,Teacher-Led,Technology,"Applied Learning, History & Civics","College & Career Prep, History & Geography",629
+2793845,Teacher-Led,Supplies,"Health & Sports, Music & The Arts","Health & Wellness, Visual Arts",630
+2797859,Teacher-Led,Instructional Technology,"Literacy & Language, Special Needs","ESL, Special Needs",631
+2797871,Teacher-Led,Sports & Exercise Equipment,"Health & Sports, Special Needs","Gym & Fitness, Special Needs",632
+2797894,Teacher-Led,Flexible Seating,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",633
+2805409,Teacher-Led,Trips,"Applied Learning, Math & Science","Character Education, Environmental Science",634
+2808707,Teacher-Led,Trips,"Math & Science, Applied Learning","Applied Sciences, Early Development",635
+2814748,Teacher-Led,Trips,Math & Science,Applied Sciences,636
+2814761,Teacher-Led,Supplies,"Applied Learning, Math & Science","College & Career Prep, Mathematics",637
+2814766,Teacher-Led,"Reading Nooks, Desks & Storage","Literacy & Language, Math & Science","Literature & Writing, Mathematics",638
+2817383,Teacher-Led,Trips,Math & Science,"Environmental Science, Mathematics",639
+2818838,Teacher-Led,Computers & Tablets,Literacy & Language,Foreign Languages,640
+2819628,Teacher-Led,Supplies,Applied Learning,"Character Education, Extracurricular",641
+2820332,Teacher-Led,Supplies,"Math & Science, Music & The Arts","Health & Life Science, Visual Arts",642
+2825700,Teacher-Led,Other,"Applied Learning, Music & The Arts","Early Development, Performing Arts",643
+2829282,Teacher-Led,Classroom Basics,Applied Learning,"Character Education, Community Service",644
+2829326,Teacher-Led,Other,"Applied Learning, Special Needs","Other, Special Needs",645
+2838279,Teacher-Led,Other,Math & Science,"Applied Sciences, Health & Life Science",646
+2839366,Teacher-Led,Trips,"Math & Science, Music & The Arts","Environmental Science, Visual Arts",647
+2839754,Teacher-Led,Instructional Technology,Applied Learning,Other,648
+2839774,Teacher-Led,Technology,"Health & Sports, Special Needs","Gym & Fitness, Special Needs",649
+2845766,Teacher-Led,Educational Kits & Games,"Literacy & Language, Math & Science","ESL, Mathematics",650
+2846908,Teacher-Led,"Food, Clothing & Hygiene","Applied Learning, Special Needs","Other, Special Needs",651
+2847029,Teacher-Led,Visitors,"History & Civics, Music & The Arts","History & Geography, Performing Arts",652
+2847619,Teacher-Led,Supplies,"Applied Learning, Math & Science","College & Career Prep, Health & Life Science",653
+2847741,Teacher-Led,Supplies,"Health & Sports, Music & The Arts","Gym & Fitness, Performing Arts",654
+2849581,Teacher-Led,Trips,History & Civics,"Civics & Government, History & Geography",655
+2849589,Teacher-Led,"Food, Clothing & Hygiene",Applied Learning,"Extracurricular, Parent Involvement",656
+2851157,Teacher-Led,Books,"Math & Science, Music & The Arts","Mathematics, Visual Arts",657
+2852566,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","Early Development, Visual Arts",658
+2853330,Teacher-Led,Other,"Applied Learning, Health & Sports","Character Education, Health & Wellness",659
+2862659,Teacher-Led,Trips,Music & The Arts,"Music, Performing Arts",660
+2873136,Teacher-Led,Trips,"Math & Science, Special Needs","Applied Sciences, Special Needs",661
+2876393,Teacher-Led,Other,"Literacy & Language, History & Civics","Literature & Writing, Social Sciences",662
+2877296,Student-Led,Flexible Seating,Health & Sports,Health & Wellness,663
+2882550,Teacher-Led,Sports & Exercise Equipment,"Applied Learning, Health & Sports","Extracurricular, Team Sports",664
+2884294,Student-Led,Trips,Applied Learning,"College & Career Prep, Community Service",665
+2892108,Professional Development,Books,Math & Science,Mathematics,666
+2893167,Teacher-Led,Books,History & Civics,History & Geography,667
+2893900,Teacher-Led,Trips,Music & The Arts,Performing Arts,668
+2895186,Teacher-Led,Lab Equipment,"Health & Sports, Special Needs","Health & Wellness, Special Needs",669
+2897755,Teacher-Led,Instructional Technology,"Literacy & Language, Music & The Arts","Literature & Writing, Visual Arts",670
+2898974,Teacher-Led,Visitors,"Math & Science, Literacy & Language","Environmental Science, Literacy",671
+2901598,Teacher-Led,Other,"History & Civics, Math & Science","Civics & Government, Mathematics",672
+2901879,Teacher-Led,Trips,"Health & Sports, Special Needs","Health & Wellness, Special Needs",673
+2901882,Teacher-Led,Other,"Health & Sports, Special Needs","Gym & Fitness, Special Needs",674
+2903771,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","Other, Visual Arts",675
+2903942,Teacher-Led,Sports & Exercise Equipment,Health & Sports,"Health & Wellness, Team Sports",676
+2904064,Teacher-Led,Technology,"Applied Learning, Math & Science","College & Career Prep, Mathematics",677
+2906494,Teacher-Led,Supplies,"Applied Learning, Literacy & Language","Character Education, Literature & Writing",678
+2907476,Teacher-Led,Technology,Health & Sports,"Gym & Fitness, Team Sports",679
+2916809,Professional Development,Trips,"Health & Sports, Music & The Arts","Gym & Fitness, Music",680
+2916822,Teacher-Led,Visitors,Literacy & Language,Literature & Writing,681
+2916826,Teacher-Led,Classroom Basics,"Math & Science, Music & The Arts","Mathematics, Visual Arts",682
+2919071,Teacher-Led,Books,"History & Civics, Special Needs","Social Sciences, Special Needs",683
+2919465,Teacher-Led,Other,"Applied Learning, Math & Science","Community Service, Environmental Science",684
+2921043,Teacher-Led,Books,"Literacy & Language, Music & The Arts","Literacy, Performing Arts",685
+2923824,Professional Development,Trips,"Applied Learning, Literacy & Language","College & Career Prep, Literature & Writing",686
+2929792,Teacher-Led,Supplies,"Math & Science, Applied Learning","Applied Sciences, Character Education",687
+2929808,Teacher-Led,Supplies,"Math & Science, Applied Learning","Health & Life Science, Other",688
+2929809,Teacher-Led,Other,"Math & Science, Applied Learning","Applied Sciences, Character Education",689
+2929835,Teacher-Led,Technology,"Math & Science, Music & The Arts","Mathematics, Performing Arts",690
+2929846,Teacher-Led,Technology,"Math & Science, Applied Learning","Applied Sciences, Extracurricular",691
+2929873,Teacher-Led,Other,"Math & Science, Literacy & Language","Environmental Science, Literacy",692
+2932307,Teacher-Led,Books,"History & Civics, Music & The Arts","History & Geography, Performing Arts",693
+2932539,Teacher-Led,Supplies,"Health & Sports, Applied Learning","Health & Wellness, Other",694
+2932565,Teacher-Led,Technology,"History & Civics, Math & Science","Financial Literacy, Mathematics",695
+2933080,Teacher-Led,Art Supplies,"Health & Sports, Music & The Arts","Health & Wellness, Visual Arts",696
+2937398,Teacher-Led,Technology,"History & Civics, Literacy & Language","Financial Literacy, Literature & Writing",697
+2937399,Teacher-Led,Supplies,"Literacy & Language, Special Needs","ESL, Special Needs",698
+2937404,Teacher-Led,Technology,Applied Learning,"Community Service, Other",699
+2937406,Teacher-Led,Educational Kits & Games,"Literacy & Language, Music & The Arts","Literacy, Visual Arts",700
+2940030,Teacher-Led,Technology,"Applied Learning, History & Civics","College & Career Prep, Social Sciences",701
+2940036,Teacher-Led,Educational Kits & Games,Health & Sports,Team Sports,702
+2942631,Teacher-Led,"Food, Clothing & Hygiene",Applied Learning,Community Service,703
+2956496,Teacher-Led,Flexible Seating,Literacy & Language,"Foreign Languages, Literacy",704
+2961141,Teacher-Led,Supplies,"Applied Learning, Math & Science","Community Service, Health & Life Science",705
+2961143,Teacher-Led,Other,"Music & The Arts, Special Needs","Music, Special Needs",706
+2963245,Teacher-Led,Flexible Seating,Health & Sports,"Gym & Fitness, Health & Wellness",707
+2963901,Professional Development,Trips,"Math & Science, Applied Learning","Applied Sciences, College & Career Prep",708
+2965747,Teacher-Led,Visitors,Math & Science,"Environmental Science, Health & Life Science",709
+2967256,Teacher-Led,Technology,"Applied Learning, Literacy & Language","College & Career Prep, ESL",710
+2970865,Teacher-Led,"Food, Clothing & Hygiene","Health & Sports, Literacy & Language","Health & Wellness, Literacy",711
+2971217,Teacher-Led,Other,"Health & Sports, Literacy & Language","Health & Wellness, Literacy",712
+2973413,Teacher-Led,Books,Math & Science,"Applied Sciences, Environmental Science",713
+2973421,Teacher-Led,Instructional Technology,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",714
+2976609,Teacher-Led,Visitors,Music & The Arts,Performing Arts,715
+2982423,Teacher-Led,Supplies,"Math & Science, Music & The Arts","Mathematics, Performing Arts",716
+2982869,Teacher-Led,Supplies,"Health & Sports, Literacy & Language","Gym & Fitness, Literacy",717
+2984412,Teacher-Led,Computers & Tablets,Music & The Arts,Music,718
+2985895,Teacher-Led,Other,"Applied Learning, Special Needs","Character Education, Special Needs",719
+2986902,Teacher-Led,Technology,"Applied Learning, Math & Science","Character Education, Mathematics",720
+2989129,Student-Led,Technology,"Math & Science, Applied Learning","Applied Sciences, College & Career Prep",721
+2996146,Teacher-Led,Other,Math & Science,Applied Sciences,722
+3001966,Professional Development,Supplies,"Literacy & Language, Math & Science","Literacy, Mathematics",723
+3001999,Teacher-Led,Technology,Applied Learning,"Character Education, Other",724
+3004597,Teacher-Led,Trips,Health & Sports,"Gym & Fitness, Team Sports",725
+3008513,Teacher-Led,Educational Kits & Games,"Literacy & Language, Math & Science","ESL, Environmental Science",726
+3008835,Teacher-Led,Educational Kits & Games,"Literacy & Language, Applied Learning","ESL, Early Development",727
+3016536,Teacher-Led,Supplies,"Math & Science, Health & Sports","Environmental Science, Team Sports",728
+3020303,Teacher-Led,Other,Literacy & Language,Foreign Languages,729
+3021882,Teacher-Led,Supplies,"Applied Learning, Health & Sports","College & Career Prep, Nutrition Education",730
+3026042,Student-Led,Trips,Math & Science,"Applied Sciences, Mathematics",731
+3027531,Teacher-Led,"Food, Clothing & Hygiene",Special Needs,Special Needs,732
+3035170,Teacher-Led,Supplies,Applied Learning,"Character Education, Early Development",733
+3037321,Teacher-Led,Classroom Basics,Health & Sports,Health & Wellness,734
+3037326,Teacher-Led,Educational Kits & Games,"Math & Science, Music & The Arts","Mathematics, Visual Arts",735
+3037336,Teacher-Led,Classroom Basics,"Literacy & Language, History & Civics","ESL, History & Geography",736
+3043244,Teacher-Led,Instructional Technology,Health & Sports,"Health & Wellness, Team Sports",737
+3048454,Teacher-Led,"Reading Nooks, Desks & Storage","Literacy & Language, Special Needs","ESL, Special Needs",738
+3051411,Teacher-Led,Flexible Seating,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",739
+3051422,Student-Led,Supplies,"Applied Learning, Math & Science","College & Career Prep, Mathematics",740
+3051441,Teacher-Led,Lab Equipment,Music & The Arts,"Performing Arts, Visual Arts",741
+3061143,Teacher-Led,Classroom Basics,Math & Science,Mathematics,742
+3061153,Teacher-Led,Supplies,"Health & Sports, Music & The Arts","Health & Wellness, Performing Arts",743
+3061484,Teacher-Led,Supplies,"Applied Learning, Math & Science","Early Development, Health & Life Science",744
+3061489,Teacher-Led,Technology,"Math & Science, History & Civics","Environmental Science, Social Sciences",745
+3077588,Teacher-Led,Supplies,Applied Learning,"Character Education, Parent Involvement",746
+3078447,Teacher-Led,Supplies,Applied Learning,"College & Career Prep, Extracurricular",747
+3080012,Professional Development,Trips,"History & Civics, Music & The Arts","Social Sciences, Visual Arts",748
+3083779,Teacher-Led,Other,"Math & Science, Music & The Arts","Mathematics, Music",749
+3090596,Teacher-Led,Supplies,"Math & Science, Literacy & Language","Health & Life Science, Literacy",750
+3091946,Teacher-Led,Technology,"Math & Science, Music & The Arts","Environmental Science, Performing Arts",751
+3097106,Teacher-Led,Other,Music & The Arts,Music,752
+3100433,Teacher-Led,Books,Math & Science,"Environmental Science, Health & Life Science",753
+3100724,Teacher-Led,Supplies,"Literacy & Language, Health & Sports","Literature & Writing, Nutrition Education",754
+3106520,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","Community Service, Visual Arts",755
+3112111,Teacher-Led,Other,Math & Science,Health & Life Science,756
+3115474,Teacher-Led,Trips,"Literacy & Language, Music & The Arts","Literature & Writing, Performing Arts",757
+3115490,Teacher-Led,Musical Instruments,"Music & The Arts, Special Needs","Music, Special Needs",758
+3115491,Teacher-Led,Technology,"Applied Learning, Math & Science","Early Development, Mathematics",759
+3118814,Teacher-Led,Books,"Applied Learning, Math & Science","College & Career Prep, Mathematics",760
+3120836,Teacher-Led,Classroom Basics,"Literacy & Language, Music & The Arts","Literature & Writing, Visual Arts",761
+3121478,Teacher-Led,Instructional Technology,Math & Science,Applied Sciences,762
+3125052,Teacher-Led,Educational Kits & Games,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",763
+3125564,Teacher-Led,Supplies,"Applied Learning, Math & Science","Community Service, Environmental Science",764
+3126070,Teacher-Led,Technology,"Applied Learning, Literacy & Language","Community Service, Literature & Writing",765
+3131761,Teacher-Led,Trips,Applied Learning,"Character Education, College & Career Prep",766
+3141123,Teacher-Led,Flexible Seating,"Health & Sports, Applied Learning","Health & Wellness, Other",767
+3143313,Teacher-Led,Other,"Math & Science, Literacy & Language","Applied Sciences, ESL",768
+3147966,Teacher-Led,Computers & Tablets,"Math & Science, Applied Learning","Mathematics, Other",769
+3149686,Teacher-Led,Computers & Tablets,History & Civics,"Civics & Government, Social Sciences",770
+3152876,Teacher-Led,Supplies,"Literacy & Language, History & Civics","Literature & Writing, Social Sciences",771
+3156698,Teacher-Led,Supplies,Health & Sports,"Health & Wellness, Nutrition Education",772
+3158283,Teacher-Led,Books,"Health & Sports, Literacy & Language","Health & Wellness, Literacy",773
+3162171,Teacher-Led,Trips,"Math & Science, History & Civics","Environmental Science, History & Geography",774
+3168388,Teacher-Led,Supplies,"Math & Science, Health & Sports","Environmental Science, Health & Wellness",775
+3171052,Teacher-Led,Supplies,"Health & Sports, Music & The Arts","Health & Wellness, Music",776
+3172135,Teacher-Led,Supplies,"Literacy & Language, Music & The Arts","Literacy, Performing Arts",777
+3173540,Teacher-Led,Technology,"Applied Learning, Literacy & Language","Extracurricular, Literature & Writing",778
+3173549,Teacher-Led,Educational Kits & Games,"Applied Learning, Math & Science","Character Education, Mathematics",779
+3173554,Teacher-Led,Supplies,"Math & Science, Applied Learning","Mathematics, Parent Involvement",780
+3181549,Teacher-Led,Books,"Applied Learning, Literacy & Language","College & Career Prep, Literacy",781
+3186440,Teacher-Led,Other,"Special Needs, Music & The Arts","Special Needs, Visual Arts",782
+3189566,Professional Development,Books,Literacy & Language,Literature & Writing,783
+3189899,Teacher-Led,Visitors,"Literacy & Language, Music & The Arts","Literature & Writing, Performing Arts",784
+3190564,Teacher-Led,"Reading Nooks, Desks & Storage",Literacy & Language,"Literacy, Literature & Writing",785
+3191014,Teacher-Led,Supplies,Applied Learning,"College & Career Prep, Community Service",786
+3192590,Teacher-Led,Instructional Technology,Math & Science,Environmental Science,787
+3194517,Teacher-Led,Books,"Math & Science, History & Civics","Health & Life Science, History & Geography",788
+3195063,Teacher-Led,Books,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",789
+3195076,Teacher-Led,Trips,"Math & Science, Special Needs","Environmental Science, Special Needs",790
+3196242,Teacher-Led,Technology,History & Civics,Social Sciences,791
+3196764,Teacher-Led,Other,Math & Science,"Health & Life Science, Mathematics",792
+3197306,Teacher-Led,Classroom Basics,Literacy & Language,Literature & Writing,793
+3198057,Teacher-Led,Technology,"Literacy & Language, History & Civics","Literacy, Social Sciences",794
+3201226,Teacher-Led,Instructional Technology,"Math & Science, Applied Learning","Applied Sciences, Extracurricular",795
+3201230,Teacher-Led,Other,Health & Sports,"Gym & Fitness, Team Sports",796
+3204548,Teacher-Led,Trips,History & Civics,"History & Geography, Social Sciences",797
+3207262,Professional Development,Technology,Applied Learning,Character Education,798
+3211046,Teacher-Led,Books,"Math & Science, Special Needs","Mathematics, Special Needs",799
+3212172,Student-Led,Supplies,"Math & Science, Special Needs","Health & Life Science, Special Needs",800
+3214552,Teacher-Led,Other,"Health & Sports, Math & Science","Health & Wellness, Mathematics",801
+3215894,Teacher-Led,Books,Math & Science,"Environmental Science, Mathematics",802
+3218286,Student-Led,Supplies,"Warmth, Care & Hunger","Warmth, Care & Hunger",803
+3219927,Teacher-Led,Technology,"Special Needs, Music & The Arts","Special Needs, Visual Arts",804
+3231336,Teacher-Led,Books,"Math & Science, History & Civics","Applied Sciences, Social Sciences",805
+3233305,Teacher-Led,Other,"Math & Science, Health & Sports","Health & Life Science, Health & Wellness",806
+3234033,Teacher-Led,Other,"Applied Learning, Health & Sports","Early Development, Health & Wellness",807
+3235440,Teacher-Led,Supplies,"Music & The Arts, Special Needs","Performing Arts, Special Needs",808
+3235450,Teacher-Led,Flexible Seating,"Applied Learning, Literacy & Language","Character Education, Literacy",809
+3243940,Teacher-Led,Technology,"Literacy & Language, History & Civics","ESL, History & Geography",810
+3248037,Teacher-Led,Supplies,"Math & Science, History & Civics","Environmental Science, Social Sciences",811
+3254356,Teacher-Led,Trips,"Math & Science, Health & Sports","Environmental Science, Health & Wellness",812
+3263021,Teacher-Led,Educational Kits & Games,"Literacy & Language, Special Needs","Literacy, Special Needs",813
+3265930,Teacher-Led,Visitors,Health & Sports,"Health & Wellness, Nutrition Education",814
+3268669,Teacher-Led,Supplies,Health & Sports,Gym & Fitness,815
+3277027,Teacher-Led,Technology,"Applied Learning, Health & Sports","Character Education, Health & Wellness",816
+3279285,Teacher-Led,Supplies,"Math & Science, History & Civics","Applied Sciences, History & Geography",817
+3279289,Teacher-Led,Technology,"History & Civics, Math & Science","History & Geography, Mathematics",818
+3282572,Teacher-Led,Supplies,"Math & Science, Applied Learning","Applied Sciences, Early Development",819
+3285397,Teacher-Led,Educational Kits & Games,Literacy & Language,"ESL, Literacy",820
+3287228,Student-Led,Supplies,Music & The Arts,Music,821
+3288588,Teacher-Led,Supplies,"Literacy & Language, Applied Learning","ESL, Early Development",822
+3291592,Teacher-Led,Supplies,"History & Civics, Special Needs","History & Geography, Special Needs",823
+3296369,Teacher-Led,Other,Applied Learning,Other,824
+3298525,Teacher-Led,Technology,"Literacy & Language, Math & Science","Foreign Languages, Health & Life Science",825
+3299974,Teacher-Led,Art Supplies,Literacy & Language,ESL,826
+3307443,Teacher-Led,Computers & Tablets,"History & Civics, Literacy & Language","History & Geography, Literature & Writing",827
+3309834,Teacher-Led,Computers & Tablets,Music & The Arts,Visual Arts,828
+3311957,Teacher-Led,Supplies,"History & Civics, Math & Science","Economics, Mathematics",829
+3312937,Teacher-Led,Technology,"Applied Learning, Music & The Arts","College & Career Prep, Visual Arts",830
+3323023,Teacher-Led,Supplies,History & Civics,"History & Geography, Social Sciences",831
+3325555,Teacher-Led,Sports & Exercise Equipment,Health & Sports,"Gym & Fitness, Team Sports",832
+3326197,Professional Development,Trips,"Literacy & Language, Special Needs","Literacy, Special Needs",833
+3328063,Teacher-Led,Books,Math & Science,Applied Sciences,834
+3332989,Teacher-Led,Educational Kits & Games,Math & Science,"Applied Sciences, Mathematics",835
+3337110,Teacher-Led,"Reading Nooks, Desks & Storage",Applied Learning,Early Development,836
+3339052,Teacher-Led,Supplies,Applied Learning,"Character Education, College & Career Prep",837
+3339065,Teacher-Led,Educational Kits & Games,"Health & Sports, Special Needs","Health & Wellness, Special Needs",838
+3342808,Teacher-Led,Art Supplies,Health & Sports,"Gym & Fitness, Health & Wellness",839
+3345716,Teacher-Led,Other,Health & Sports,"Health & Wellness, Team Sports",840
+3347142,Teacher-Led,Technology,"Applied Learning, Music & The Arts","Other, Visual Arts",841
+3349994,Teacher-Led,Flexible Seating,"Warmth, Care & Hunger","Warmth, Care & Hunger",842
+3351324,Teacher-Led,Books,History & Civics,Social Sciences,843
+3356809,Teacher-Led,Other,"History & Civics, Music & The Arts","History & Geography, Visual Arts",844
+3359403,Teacher-Led,Books,"Math & Science, Literacy & Language","Applied Sciences, Literacy",845
+3361163,Teacher-Led,Technology,"Warmth, Care & Hunger","Warmth, Care & Hunger",846
+3363394,Teacher-Led,Technology,"History & Civics, Math & Science","Economics, Mathematics",847
+3365337,Teacher-Led,Technology,"Applied Learning, Literacy & Language","Early Development, Literature & Writing",848
+3365695,Teacher-Led,Technology,History & Civics,History & Geography,849
+3367948,Teacher-Led,Supplies,Applied Learning,"College & Career Prep, Other",850
+3369292,Teacher-Led,"Reading Nooks, Desks & Storage","Literacy & Language, Math & Science","Literacy, Mathematics",851
+3374520,Teacher-Led,Classroom Basics,"Applied Learning, Literacy & Language","College & Career Prep, Literature & Writing",852
+3374522,Teacher-Led,Instructional Technology,Music & The Arts,"Performing Arts, Visual Arts",853
+3374526,Teacher-Led,Technology,"History & Civics, Applied Learning","Civics & Government, Other",854
+3375205,Teacher-Led,Technology,"Literacy & Language, Music & The Arts","Literacy, Visual Arts",855
+3377195,Teacher-Led,Supplies,"Math & Science, Applied Learning","Applied Sciences, Other",856
+3383175,Teacher-Led,Books,Math & Science,"Applied Sciences, Mathematics",857
+3384583,Teacher-Led,"Reading Nooks, Desks & Storage","Applied Learning, Math & Science","College & Career Prep, Health & Life Science",858
+3385401,Teacher-Led,Technology,Health & Sports,Health & Wellness,859
+3390128,Teacher-Led,Other,Health & Sports,"Gym & Fitness, Health & Wellness",860
+3391395,Teacher-Led,Technology,History & Civics,"Civics & Government, History & Geography",861
+3391920,Teacher-Led,Technology,"Math & Science, Literacy & Language","Environmental Science, Foreign Languages",862
+3395005,Teacher-Led,Books,Math & Science,"Applied Sciences, Health & Life Science",863
+3399970,Teacher-Led,Computers & Tablets,"Applied Learning, Special Needs","Early Development, Special Needs",864
+3408260,Teacher-Led,Technology,"Applied Learning, Literacy & Language","Early Development, Literacy",865
+3408867,Teacher-Led,Other,"Math & Science, Literacy & Language","Applied Sciences, Literature & Writing",866
+3414834,Teacher-Led,Technology,"Math & Science, History & Civics","Health & Life Science, History & Geography",867
+3414838,Teacher-Led,Technology,"Applied Learning, Music & The Arts","Parent Involvement, Visual Arts",868
+3414839,Teacher-Led,Books,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",869
+3415255,Teacher-Led,Supplies,"Literacy & Language, Math & Science","Foreign Languages, Mathematics",870
+3418091,Teacher-Led,Other,"Math & Science, Literacy & Language","Applied Sciences, Literacy",871
+3418398,Teacher-Led,Sports & Exercise Equipment,Music & The Arts,Visual Arts,872
+3420777,Teacher-Led,Supplies,History & Civics,Financial Literacy,873
+3422860,Teacher-Led,Computers & Tablets,"History & Civics, Math & Science","Financial Literacy, Mathematics",874
+3422861,Teacher-Led,Books,"Math & Science, Literacy & Language","Applied Sciences, ESL",875
+3427108,Teacher-Led,"Reading Nooks, Desks & Storage","Literacy & Language, Special Needs","Literacy, Special Needs",876
+3431257,Teacher-Led,Lab Equipment,Math & Science,Applied Sciences,877
+3432062,Teacher-Led,Technology,Applied Learning,"Community Service, Extracurricular",878
+3432362,Teacher-Led,Educational Kits & Games,"Math & Science, Special Needs","Mathematics, Special Needs",879
+3434444,Teacher-Led,Supplies,History & Civics,History & Geography,880
+3438158,Teacher-Led,Supplies,"Math & Science, Literacy & Language","Applied Sciences, ESL",881
+3440972,Teacher-Led,Technology,"Math & Science, Literacy & Language","Applied Sciences, Foreign Languages",882
+3443683,Teacher-Led,Lab Equipment,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",883
+3443882,Teacher-Led,Trips,"Math & Science, Literacy & Language","Environmental Science, Literature & Writing",884
+3444317,Teacher-Led,Instructional Technology,"Math & Science, Literacy & Language","Applied Sciences, Literacy",885
+3445796,Teacher-Led,Supplies,"Applied Learning, Literacy & Language","College & Career Prep, Literature & Writing",886
+3449036,Teacher-Led,Instructional Technology,"Literacy & Language, Applied Learning","Literacy, Parent Involvement",887
+3449191,Professional Development,Trips,"Literacy & Language, Math & Science","Literacy, Mathematics",888
+3450420,Teacher-Led,Educational Kits & Games,Math & Science,Mathematics,889
+3453981,Teacher-Led,Books,"Applied Learning, Literacy & Language","Community Service, Literacy",890
+3454838,Student-Led,Supplies,"Health & Sports, History & Civics","Nutrition Education, Social Sciences",891
+3455253,Teacher-Led,Technology,"Applied Learning, Special Needs","College & Career Prep, Special Needs",892
+3462136,Teacher-Led,Visitors,"Literacy & Language, Music & The Arts","Literature & Writing, Music",893
+3462347,Teacher-Led,Supplies,"Math & Science, Literacy & Language","Applied Sciences, Literacy",894
+3463380,Teacher-Led,Other,"Literacy & Language, Health & Sports","Literacy, Nutrition Education",895
+3464081,Teacher-Led,Instructional Technology,"Applied Learning, Special Needs","Other, Special Needs",896
+3468959,Teacher-Led,Other,"Applied Learning, Music & The Arts","Community Service, Visual Arts",897
+3474391,Teacher-Led,Other,Applied Learning,Early Development,898
+3477393,Teacher-Led,Other,Music & The Arts,"Music, Performing Arts",899
+3479811,Teacher-Led,Computers & Tablets,Literacy & Language,ESL,900
+3486483,Teacher-Led,Technology,"Math & Science, Applied Learning","Applied Sciences, Character Education",901
+3486693,Teacher-Led,Trips,Health & Sports,"Health & Wellness, Team Sports",902
+3489379,Teacher-Led,Books,"Math & Science, Literacy & Language","Applied Sciences, Literature & Writing",903
+3490263,Teacher-Led,Supplies,"Health & Sports, Special Needs","Gym & Fitness, Special Needs",904
+3490490,Teacher-Led,Technology,Music & The Arts,"Music, Performing Arts",905
+3491161,Teacher-Led,Lab Equipment,"Warmth, Care & Hunger","Warmth, Care & Hunger",906
+3495310,Professional Development,Computers & Tablets,Literacy & Language,Literacy,907
+3495601,Teacher-Led,Supplies,"Math & Science, Applied Learning","Environmental Science, Extracurricular",908
+3499848,Teacher-Led,Books,Literacy & Language,"ESL, Literature & Writing",909
+3500416,Teacher-Led,Other,Math & Science,"Applied Sciences, Environmental Science",910
+3502313,Teacher-Led,Technology,"Literacy & Language, Music & The Arts","Literature & Writing, Visual Arts",911
+3503507,Teacher-Led,Lab Equipment,Math & Science,Environmental Science,912
+3504468,Teacher-Led,Supplies,"Applied Learning, Health & Sports","Early Development, Gym & Fitness",913
+3507438,Student-Led,Technology,Math & Science,Environmental Science,914
+3507944,Teacher-Led,Trips,History & Civics,"Economics, History & Geography",915
+3510525,Teacher-Led,Computers & Tablets,"Math & Science, Literacy & Language","Applied Sciences, ESL",916
+3510588,Teacher-Led,Trips,Applied Learning,Extracurricular,917
+3513371,Teacher-Led,Flexible Seating,Literacy & Language,"Literacy, Literature & Writing",918
+3514930,Teacher-Led,Technology,Applied Learning,"Character Education, Parent Involvement",919
+3515381,Teacher-Led,Classroom Basics,Literacy & Language,Literacy,920
+3519961,Teacher-Led,Supplies,"Math & Science, Literacy & Language","Applied Sciences, Literature & Writing",921
+3520008,Teacher-Led,Books,"Applied Learning, Literacy & Language","Early Development, Literacy",922
+3520316,Teacher-Led,Supplies,Literacy & Language,"Foreign Languages, Literacy",923
+3520832,Teacher-Led,Technology,History & Civics,"History & Geography, Social Sciences",924
+3523318,Teacher-Led,Instructional Technology,Literacy & Language,Literacy,925
+3523320,Teacher-Led,Books,"Math & Science, History & Civics","Environmental Science, Social Sciences",926
+3527069,Teacher-Led,Trips,"History & Civics, Applied Learning","Civics & Government, College & Career Prep",927
+3527320,Teacher-Led,Books,"Literacy & Language, Music & The Arts","Literature & Writing, Visual Arts",928
+3529665,Teacher-Led,Supplies,"Literacy & Language, Math & Science","ESL, Mathematics",929
+3529803,Teacher-Led,Other,"Health & Sports, Special Needs","Health & Wellness, Special Needs",930
+3534269,Teacher-Led,Supplies,"Applied Learning, Math & Science","Character Education, Mathematics",931
+3534827,Teacher-Led,Technology,"Music & The Arts, History & Civics","Music, Social Sciences",932
+3535870,Teacher-Led,Instructional Technology,Applied Learning,Character Education,933
+3537184,Professional Development,Trips,Literacy & Language,"Literacy, Literature & Writing",934
+3542985,Teacher-Led,Books,Music & The Arts,"Music, Performing Arts",935
+3546974,Teacher-Led,Supplies,Literacy & Language,"ESL, Literature & Writing",936
+3547782,Teacher-Led,Supplies,"Health & Sports, Math & Science","Gym & Fitness, Mathematics",937
+3548647,Teacher-Led,Sports & Exercise Equipment,"Applied Learning, Music & The Arts","Early Development, Visual Arts",938
+3550905,Teacher-Led,Supplies,"Literacy & Language, History & Civics","Literacy, Social Sciences",939
+3552438,Teacher-Led,Computers & Tablets,Literacy & Language,Literature & Writing,940
+3553919,Teacher-Led,Flexible Seating,Special Needs,Special Needs,941
+3557917,Teacher-Led,Technology,"History & Civics, Special Needs","Civics & Government, Special Needs",942
+3558061,Teacher-Led,Trips,Applied Learning,"Character Education, Community Service",943
+3561827,Student-Led,Computers & Tablets,"Literacy & Language, Music & The Arts","Literacy, Performing Arts",944
+3563794,Teacher-Led,Other,"Applied Learning, Literacy & Language","Extracurricular, Literacy",945
+3565527,Teacher-Led,Classroom Basics,"Warmth, Care & Hunger","Warmth, Care & Hunger",946
+3565528,Teacher-Led,Flexible Seating,"Applied Learning, Special Needs","Early Development, Special Needs",947
+3565768,Teacher-Led,Computers & Tablets,"Math & Science, History & Civics","Health & Life Science, History & Geography",948
+3569281,Teacher-Led,Supplies,"Applied Learning, History & Civics","Early Development, Social Sciences",949
+3572227,Teacher-Led,Supplies,Literacy & Language,ESL,950
+3573026,Teacher-Led,Supplies,"Applied Learning, Literacy & Language","Community Service, Literacy",951
+3573682,Teacher-Led,Trips,"Math & Science, Literacy & Language","Applied Sciences, Literature & Writing",952
+3574952,Teacher-Led,Supplies,"Literacy & Language, Applied Learning","Literacy, Parent Involvement",953
+3575314,Teacher-Led,Supplies,"Literacy & Language, Music & The Arts","Literacy, Music",954
+3576225,Teacher-Led,Classroom Basics,Music & The Arts,Music,955
+3588827,Teacher-Led,Supplies,"Math & Science, Special Needs","Environmental Science, Special Needs",956
+3590588,Teacher-Led,Technology,"Applied Learning, Music & The Arts","Character Education, Performing Arts",957
+3590981,Teacher-Led,Instructional Technology,"Literacy & Language, Math & Science","ESL, Mathematics",958
+3595145,Teacher-Led,Educational Kits & Games,"Applied Learning, Math & Science","Early Development, Mathematics",959
+3595203,Teacher-Led,Sports & Exercise Equipment,Health & Sports,Health & Wellness,960
+3596217,Teacher-Led,Other,Literacy & Language,Literature & Writing,961
+3596778,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","Character Education, Visual Arts",962
+3598255,Teacher-Led,Trips,Applied Learning,"College & Career Prep, Extracurricular",963
+3610054,Teacher-Led,Flexible Seating,"Health & Sports, Special Needs","Health & Wellness, Special Needs",964
+3612568,Teacher-Led,Supplies,"Math & Science, Special Needs","Applied Sciences, Special Needs",965
+3616594,Teacher-Led,Books,Literacy & Language,Foreign Languages,966
+3617198,Teacher-Led,Supplies,"Applied Learning, Literacy & Language","Early Development, Literacy",967
+3621258,Teacher-Led,Supplies,"Math & Science, Music & The Arts","Mathematics, Visual Arts",968
+3623892,Teacher-Led,"Reading Nooks, Desks & Storage",Literacy & Language,Literacy,969
+3624928,Teacher-Led,Books,Applied Learning,Other,970
+3625616,Teacher-Led,Other,"Applied Learning, Music & The Arts","Character Education, Visual Arts",971
+3626099,Teacher-Led,Books,"Math & Science, Literacy & Language","Health & Life Science, Literacy",972
+3626646,Teacher-Led,Other,"Literacy & Language, History & Civics","Literacy, Social Sciences",973
+3629815,Teacher-Led,Technology,"Math & Science, Music & The Arts","Environmental Science, Visual Arts",974
+3629933,Teacher-Led,Books,Literacy & Language,ESL,975
+3634953,Teacher-Led,Trips,Music & The Arts,Visual Arts,976
+3635051,Teacher-Led,Technology,"Math & Science, History & Civics","Environmental Science, History & Geography",977
+3638031,Teacher-Led,Other,"Applied Learning, Math & Science","Extracurricular, Mathematics",978
+3638712,Teacher-Led,Technology,"Math & Science, Literacy & Language","Health & Life Science, Literature & Writing",979
+3639192,Teacher-Led,Flexible Seating,Applied Learning,Other,980
+3640081,Teacher-Led,Technology,"Applied Learning, Special Needs","Other, Special Needs",981
+3640328,Teacher-Led,Other,"History & Civics, Math & Science","Economics, Mathematics",982
+3640664,Teacher-Led,Technology,"Applied Learning, Music & The Arts","Extracurricular, Visual Arts",983
+3641754,Teacher-Led,Classroom Basics,Applied Learning,Other,984
+3645543,Teacher-Led,Books,"Applied Learning, Literacy & Language","Character Education, ESL",985
+3645544,Teacher-Led,Supplies,"Literacy & Language, History & Civics","Foreign Languages, History & Geography",986
+3647919,Teacher-Led,Books,"History & Civics, Literacy & Language","Financial Literacy, Literacy",987
+3650391,Teacher-Led,Instructional Technology,"Literacy & Language, Music & The Arts","ESL, Visual Arts",988
+3651457,Teacher-Led,Other,Math & Science,"Applied Sciences, Mathematics",989
+3652496,Teacher-Led,Technology,"Applied Learning, Special Needs","Community Service, Special Needs",990
+3657266,Teacher-Led,Supplies,Health & Sports,"Gym & Fitness, Health & Wellness",991
+3658075,Teacher-Led,Technology,Applied Learning,Early Development,992
+3658505,Teacher-Led,Supplies,"History & Civics, Literacy & Language","History & Geography, Literature & Writing",993
+3662065,Teacher-Led,Supplies,History & Civics,"Civics & Government, Social Sciences",994
+3663368,Teacher-Led,Books,"Math & Science, Literacy & Language","Environmental Science, Foreign Languages",995
+3665324,Teacher-Led,Technology,"Math & Science, Music & The Arts","Mathematics, Visual Arts",996
+3665402,Professional Development,Trips,"Applied Learning, Special Needs","Early Development, Special Needs",997
+3665649,Professional Development,Technology,Literacy & Language,"Foreign Languages, Literacy",998
+3666075,Teacher-Led,"Reading Nooks, Desks & Storage","Health & Sports, Math & Science","Health & Wellness, Mathematics",999
+3666436,Teacher-Led,Trips,"History & Civics, Literacy & Language","History & Geography, Literature & Writing",1000
+3667193,Teacher-Led,Supplies,"Applied Learning, Health & Sports","Character Education, Health & Wellness",1001
+3668876,Teacher-Led,Instructional Technology,Literacy & Language,"ESL, Literacy",1002
+3669477,Teacher-Led,Technology,Math & Science,Health & Life Science,1003
+3676015,Teacher-Led,Supplies,"Math & Science, Music & The Arts","Mathematics, Music",1004
+3676357,Teacher-Led,Supplies,"Applied Learning, Math & Science","Character Education, Environmental Science",1005
+3676941,Teacher-Led,Other,Special Needs,Special Needs,1006
+3677202,Teacher-Led,Technology,"Literacy & Language, Math & Science","ESL, Environmental Science",1007
+3677239,Teacher-Led,"Reading Nooks, Desks & Storage",Health & Sports,"Gym & Fitness, Health & Wellness",1008
+3683604,Teacher-Led,Books,"Literacy & Language, Applied Learning","Literature & Writing, Other",1009
+3683607,Teacher-Led,Instructional Technology,"Health & Sports, Music & The Arts","Gym & Fitness, Performing Arts",1010
+3683616,Teacher-Led,Art Supplies,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",1011
+3683619,Teacher-Led,Classroom Basics,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",1012
+3683629,Teacher-Led,Technology,"Applied Learning, History & Civics","Character Education, Social Sciences",1013
+3685006,Teacher-Led,Technology,Health & Sports,"Gym & Fitness, Health & Wellness",1014
+3685115,Teacher-Led,Technology,"Math & Science, Literacy & Language","Applied Sciences, Literacy",1015
+3685254,Professional Development,Technology,Literacy & Language,"Literacy, Literature & Writing",1016
+3688601,Teacher-Led,Other,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",1017
+3690840,Teacher-Led,Technology,"Health & Sports, Math & Science","Health & Wellness, Mathematics",1018
+3691205,Teacher-Led,Supplies,Applied Learning,Character Education,1019
+3691489,Teacher-Led,Computers & Tablets,Math & Science,Applied Sciences,1020
+3693512,Teacher-Led,Technology,Applied Learning,Character Education,1021
+3694834,Teacher-Led,Educational Kits & Games,"History & Civics, Math & Science","Financial Literacy, Mathematics",1022
+3694961,Teacher-Led,Supplies,"Applied Learning, Literacy & Language","Character Education, Literacy",1023
+3695054,Teacher-Led,Supplies,"Math & Science, Applied Learning","Applied Sciences, College & Career Prep",1024
+3696719,Teacher-Led,Supplies,Music & The Arts,Performing Arts,1025
+3701580,Teacher-Led,Books,"History & Civics, Literacy & Language","Civics & Government, Literature & Writing",1026
+3703560,Teacher-Led,Technology,Applied Learning,Extracurricular,1027
+3704269,Teacher-Led,Instructional Technology,"Applied Learning, Literacy & Language","College & Career Prep, Literature & Writing",1028
+3708626,Teacher-Led,Books,"Applied Learning, Math & Science","Early Development, Mathematics",1029
+3709229,Teacher-Led,Educational Kits & Games,"Literacy & Language, Math & Science","Literacy, Mathematics",1030
+3709384,Teacher-Led,Technology,"Applied Learning, Literacy & Language","College & Career Prep, Literature & Writing",1031
+3709721,Teacher-Led,Computers & Tablets,History & Civics,"History & Geography, Social Sciences",1032
+3709722,Teacher-Led,Instructional Technology,Special Needs,Special Needs,1033
+3710032,Teacher-Led,Technology,Applied Learning,"Character Education, Community Service",1034
+3712495,Teacher-Led,Technology,"Literacy & Language, Special Needs","ESL, Special Needs",1035
+3712564,Teacher-Led,Books,Math & Science,Mathematics,1036
+3713297,Teacher-Led,Trips,"Math & Science, History & Civics","Environmental Science, Social Sciences",1037
+3717634,Teacher-Led,Books,"Applied Learning, Literacy & Language","Character Education, Literature & Writing",1038
+3720314,Teacher-Led,Educational Kits & Games,Special Needs,Special Needs,1039
+3722375,Teacher-Led,Educational Kits & Games,"Math & Science, Music & The Arts","Applied Sciences, Music",1040
+3726528,Student-Led,Technology,"Math & Science, Music & The Arts","Environmental Science, Performing Arts",1041
+3726606,Teacher-Led,Books,Math & Science,Environmental Science,1042
+3728194,Teacher-Led,Educational Kits & Games,Applied Learning,"Character Education, Early Development",1043
+3729051,Teacher-Led,Instructional Technology,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",1044
+3730769,Teacher-Led,Technology,"Math & Science, Special Needs","Applied Sciences, Special Needs",1045
+3731950,Teacher-Led,Trips,"Math & Science, History & Civics","Applied Sciences, History & Geography",1046
+3734287,Teacher-Led,Trips,Literacy & Language,Literature & Writing,1047
+3736686,Teacher-Led,Technology,"Applied Learning, Music & The Arts","Extracurricular, Performing Arts",1048
+3736687,Teacher-Led,Other,"History & Civics, Music & The Arts","History & Geography, Music",1049
+3737111,Teacher-Led,Books,"Math & Science, Literacy & Language","Environmental Science, Literacy",1050
+3738049,Teacher-Led,Trips,Math & Science,"Environmental Science, Health & Life Science",1051
+3741111,Teacher-Led,Instructional Technology,"Applied Learning, Music & The Arts","Other, Visual Arts",1052
+3746186,Teacher-Led,Other,Music & The Arts,Performing Arts,1053
+3751773,Teacher-Led,Computers & Tablets,"Applied Learning, Literacy & Language","Early Development, Literacy",1054
+3758427,Teacher-Led,Supplies,"Literacy & Language, Music & The Arts","Literature & Writing, Performing Arts",1055
+3759540,Teacher-Led,Technology,"Math & Science, Health & Sports","Health & Life Science, Health & Wellness",1056
+3760260,Teacher-Led,Art Supplies,"Literacy & Language, Special Needs","Literacy, Special Needs",1057
+3760406,Teacher-Led,"Food, Clothing & Hygiene","Applied Learning, Health & Sports","Extracurricular, Health & Wellness",1058
+3760408,Teacher-Led,Other,Health & Sports,Health & Wellness,1059
+3762289,Teacher-Led,Technology,"Math & Science, Applied Learning","Applied Sciences, Other",1060
+3762331,Teacher-Led,Books,Literacy & Language,"ESL, Foreign Languages",1061
+3763025,Teacher-Led,Technology,Literacy & Language,Literature & Writing,1062
+3763085,Teacher-Led,"Reading Nooks, Desks & Storage","Health & Sports, Special Needs","Health & Wellness, Special Needs",1063
+3764142,Teacher-Led,Other,"Literacy & Language, Special Needs","Literacy, Special Needs",1064
+3764235,Teacher-Led,Supplies,"Applied Learning, Health & Sports","Extracurricular, Team Sports",1065
+3765554,Teacher-Led,Supplies,Health & Sports,"Gym & Fitness, Team Sports",1066
+3765747,Teacher-Led,Supplies,Math & Science,"Health & Life Science, Mathematics",1067
+3766399,Teacher-Led,Technology,"Literacy & Language, Math & Science","ESL, Mathematics",1068
+3766403,Teacher-Led,Technology,Literacy & Language,ESL,1069
+3770277,Teacher-Led,Supplies,"Health & Sports, Literacy & Language","Health & Wellness, Literacy",1070
+3771309,Teacher-Led,Books,"Applied Learning, Literacy & Language","Character Education, Literacy",1071
+3772569,Teacher-Led,Technology,Literacy & Language,Foreign Languages,1072
+3772583,Teacher-Led,Supplies,"Math & Science, Special Needs","Mathematics, Special Needs",1073
+3772758,Teacher-Led,Classroom Basics,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",1074
+3773100,Teacher-Led,Instructional Technology,"Math & Science, Music & The Arts","Applied Sciences, Music",1075
+3773102,Teacher-Led,Computers & Tablets,"Math & Science, Music & The Arts","Applied Sciences, Music",1076
+3774596,Teacher-Led,Art Supplies,"Literacy & Language, Music & The Arts","ESL, Visual Arts",1077
+3775764,Teacher-Led,Supplies,Applied Learning,College & Career Prep,1078
+3775769,Teacher-Led,Instructional Technology,"Literacy & Language, History & Civics","Literature & Writing, Social Sciences",1079
+3776083,Professional Development,Trips,Literacy & Language,"ESL, Literature & Writing",1080
+3779753,Teacher-Led,Books,Literacy & Language,"Foreign Languages, Literacy",1081
+3779827,Teacher-Led,Technology,Math & Science,Environmental Science,1082
+3780552,Teacher-Led,Supplies,"Literacy & Language, Applied Learning","Literature & Writing, Other",1083
+3782692,Teacher-Led,Computers & Tablets,History & Civics,"Civics & Government, History & Geography",1084
+3787066,Teacher-Led,Flexible Seating,"Applied Learning, Health & Sports","Character Education, Health & Wellness",1085
+3787445,Teacher-Led,Technology,Health & Sports,"Health & Wellness, Team Sports",1086
+3792968,Teacher-Led,Supplies,Applied Learning,"Character Education, Other",1087
+3793012,Teacher-Led,Books,"Math & Science, Applied Learning","Applied Sciences, Other",1088
+3794251,Teacher-Led,Instructional Technology,Literacy & Language,"Literacy, Literature & Writing",1089
+3794356,Teacher-Led,Other,"Literacy & Language, Applied Learning","Literacy, Other",1090
+3794357,Teacher-Led,Other,"Applied Learning, Literacy & Language","Early Development, Literacy",1091
+3794465,Teacher-Led,Technology,"Literacy & Language, Applied Learning","Literacy, Other",1092
+3796090,Teacher-Led,Technology,"Literacy & Language, Music & The Arts","Literacy, Music",1093
+3796288,Teacher-Led,Supplies,Math & Science,Environmental Science,1094
+3798207,Teacher-Led,Other,"History & Civics, Literacy & Language","History & Geography, Literature & Writing",1095
+3798946,Teacher-Led,Supplies,"Math & Science, Literacy & Language","Environmental Science, Literacy",1096
+3798947,Teacher-Led,Technology,"History & Civics, Literacy & Language","History & Geography, Literacy",1097
+3799631,Teacher-Led,Trips,History & Civics,History & Geography,1098
+3800709,Teacher-Led,Educational Kits & Games,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",1099
+3806027,Teacher-Led,Supplies,"Math & Science, Music & The Arts","Environmental Science, Visual Arts",1100
+3807104,Teacher-Led,Technology,"Math & Science, Music & The Arts","Health & Life Science, Visual Arts",1101
+3807986,Teacher-Led,Other,"Applied Learning, Literacy & Language","Early Development, Literature & Writing",1102
+3809362,Teacher-Led,Books,"Literacy & Language, Applied Learning","Literacy, Parent Involvement",1103
+3811389,Teacher-Led,Educational Kits & Games,"Math & Science, Applied Learning","Applied Sciences, College & Career Prep",1104
+3814383,Teacher-Led,Books,"Math & Science, Literacy & Language","Environmental Science, Literature & Writing",1105
+3816355,Teacher-Led,Supplies,Health & Sports,"Health & Wellness, Team Sports",1106
+3819387,Teacher-Led,Supplies,"Applied Learning, Literacy & Language","Extracurricular, Literacy",1107
+3820615,Teacher-Led,Technology,Math & Science,"Health & Life Science, Mathematics",1108
+3821389,Teacher-Led,Other,Music & The Arts,Visual Arts,1109
+3824212,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","Extracurricular, Music",1110
+3834548,Professional Development,Trips,Math & Science,Mathematics,1111
+3835700,Teacher-Led,Technology,"Math & Science, Special Needs","Mathematics, Special Needs",1112
+3837671,Teacher-Led,Trips,"Applied Learning, Health & Sports","Character Education, Health & Wellness",1113
+3838621,Teacher-Led,Other,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",1114
+3839565,Teacher-Led,Supplies,"Applied Learning, Health & Sports","Character Education, Team Sports",1115
+3841026,Teacher-Led,Supplies,Music & The Arts,"Music, Visual Arts",1116
+3841121,Teacher-Led,Technology,"Math & Science, Literacy & Language","Environmental Science, Literature & Writing",1117
+3841359,Teacher-Led,Computers & Tablets,"Literacy & Language, Math & Science","Literacy, Mathematics",1118
+3842249,Teacher-Led,Technology,Applied Learning,Other,1119
+3845540,Teacher-Led,Computers & Tablets,Special Needs,Special Needs,1120
+3847130,Teacher-Led,Supplies,Literacy & Language,Foreign Languages,1121
+3848795,Teacher-Led,Supplies,Math & Science,Health & Life Science,1122
+3848797,Teacher-Led,Musical Instruments,Music & The Arts,"Music, Performing Arts",1123
+3849870,Teacher-Led,Supplies,Music & The Arts,Music,1124
+3850318,Teacher-Led,Supplies,"Applied Learning, Literacy & Language","Early Development, Literature & Writing",1125
+3850910,Teacher-Led,Technology,"Applied Learning, Literacy & Language","Community Service, Literacy",1126
+3854466,Teacher-Led,Other,Applied Learning,"Character Education, Extracurricular",1127
+3857289,Teacher-Led,Sports & Exercise Equipment,Health & Sports,Team Sports,1128
+3858047,Teacher-Led,Other,"Applied Learning, Special Needs","Early Development, Special Needs",1129
+3858634,Teacher-Led,Classroom Basics,"Literacy & Language, Math & Science","Literacy, Mathematics",1130
+3858887,Professional Development,Trips,"Applied Learning, Health & Sports","Character Education, Health & Wellness",1131
+3859553,Teacher-Led,Computers & Tablets,Literacy & Language,"ESL, Literacy",1132
+3862663,Teacher-Led,Technology,"Math & Science, Music & The Arts","Mathematics, Music",1133
+3862868,Professional Development,Trips,Music & The Arts,"Music, Performing Arts",1134
+3865862,Teacher-Led,Technology,"Literacy & Language, Music & The Arts","Literature & Writing, Performing Arts",1135
+3866246,Teacher-Led,"Food, Clothing & Hygiene","Applied Learning, Music & The Arts","Extracurricular, Visual Arts",1136
+3868608,Teacher-Led,Flexible Seating,"Music & The Arts, Special Needs","Music, Special Needs",1137
+3868931,Teacher-Led,Technology,"History & Civics, Literacy & Language","History & Geography, Literature & Writing",1138
+3870370,Teacher-Led,Books,Music & The Arts,Music,1139
+3871047,Teacher-Led,Books,"Literacy & Language, Music & The Arts","Literacy, Visual Arts",1140
+3871446,Teacher-Led,Supplies,"Math & Science, Applied Learning","Mathematics, Other",1141
+3873069,Teacher-Led,Technology,"Applied Learning, Math & Science","Character Education, Environmental Science",1142
+3873607,Teacher-Led,Supplies,"Applied Learning, Math & Science","Early Development, Environmental Science",1143
+3881411,Teacher-Led,Supplies,"Applied Learning, Special Needs","Early Development, Special Needs",1144
+3882481,Teacher-Led,Supplies,"History & Civics, Literacy & Language","Civics & Government, Literature & Writing",1145
+3884729,Teacher-Led,Technology,Applied Learning,"College & Career Prep, Other",1146
+3885930,Teacher-Led,Supplies,"Math & Science, History & Civics","Mathematics, Social Sciences",1147
+3886993,Teacher-Led,Flexible Seating,Health & Sports,Gym & Fitness,1148
+3886994,Teacher-Led,Computers & Tablets,Literacy & Language,Literacy,1149
+3886995,Teacher-Led,Sports & Exercise Equipment,Health & Sports,Gym & Fitness,1150
+3886996,Teacher-Led,Sports & Exercise Equipment,Health & Sports,"Gym & Fitness, Health & Wellness",1151
+3888294,Teacher-Led,Other,Math & Science,"Environmental Science, Health & Life Science",1152
+3889050,Teacher-Led,Technology,"History & Civics, Literacy & Language","Civics & Government, Literature & Writing",1153
+3889052,Teacher-Led,Technology,Literacy & Language,"Foreign Languages, Literacy",1154
+3889482,Teacher-Led,Supplies,"History & Civics, Music & The Arts","Social Sciences, Visual Arts",1155
+3889528,Teacher-Led,Other,Health & Sports,Team Sports,1156
+3890667,Teacher-Led,Instructional Technology,"Literacy & Language, Math & Science","Literacy, Mathematics",1157
+3891066,Teacher-Led,"Reading Nooks, Desks & Storage","History & Civics, Literacy & Language","History & Geography, Literacy",1158
+3891721,Teacher-Led,Other,Math & Science,Mathematics,1159
+3894519,Teacher-Led,Supplies,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",1160
+3895349,Teacher-Led,"Food, Clothing & Hygiene",Music & The Arts,Performing Arts,1161
+3899313,Teacher-Led,Technology,"Math & Science, Literacy & Language","Applied Sciences, ESL",1162
+3899413,Teacher-Led,Lab Equipment,"Math & Science, Health & Sports","Health & Life Science, Nutrition Education",1163
+3903395,Teacher-Led,Technology,Music & The Arts,Music,1164
+3904934,Teacher-Led,Visitors,Music & The Arts,"Music, Visual Arts",1165
+3906833,Teacher-Led,Computers & Tablets,Math & Science,"Applied Sciences, Environmental Science",1166
+3908495,Teacher-Led,Technology,"Applied Learning, Math & Science","Extracurricular, Mathematics",1167
+3910170,Teacher-Led,Instructional Technology,Math & Science,"Applied Sciences, Mathematics",1168
+3911268,Teacher-Led,Computers & Tablets,"Literacy & Language, Special Needs","Literacy, Special Needs",1169
+3913226,Teacher-Led,Supplies,"Literacy & Language, Applied Learning","Literacy, Other",1170
+3913689,Teacher-Led,Supplies,"Applied Learning, Special Needs","Other, Special Needs",1171
+3914372,Teacher-Led,Visitors,Music & The Arts,"Music, Performing Arts",1172
+3915172,Teacher-Led,Instructional Technology,Applied Learning,Early Development,1173
+3915549,Teacher-Led,Technology,"Math & Science, Applied Learning","Applied Sciences, College & Career Prep",1174
+3916694,Teacher-Led,Computers & Tablets,Literacy & Language,"ESL, Literature & Writing",1175
+3919635,Teacher-Led,Books,Math & Science,Health & Life Science,1176
+3923179,Teacher-Led,Technology,Applied Learning,"Extracurricular, Parent Involvement",1177
+3923706,Teacher-Led,Supplies,"Health & Sports, Special Needs","Health & Wellness, Special Needs",1178
+3924657,Teacher-Led,Computers & Tablets,Math & Science,Mathematics,1179
+3926095,Teacher-Led,Technology,"Applied Learning, Literacy & Language","College & Career Prep, Literacy",1180
+3930659,Teacher-Led,"Food, Clothing & Hygiene","Warmth, Care & Hunger","Warmth, Care & Hunger",1181
+3930900,Teacher-Led,Technology,Applied Learning,College & Career Prep,1182
+3933530,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","College & Career Prep, Visual Arts",1183
+3933570,Teacher-Led,Other,Literacy & Language,"Literacy, Literature & Writing",1184
+3933620,Teacher-Led,Supplies,Math & Science,"Applied Sciences, Mathematics",1185
+3933943,Teacher-Led,Supplies,Music & The Arts,"Music, Performing Arts",1186
+3934514,Teacher-Led,Supplies,Literacy & Language,"ESL, Literacy",1187
+3934579,Teacher-Led,Supplies,"Applied Learning, Health & Sports","Character Education, Gym & Fitness",1188
+3935146,Teacher-Led,Instructional Technology,Math & Science,Mathematics,1189
+3935548,Teacher-Led,Technology,Math & Science,"Applied Sciences, Health & Life Science",1190
+3941484,Teacher-Led,Supplies,"Math & Science, Health & Sports","Health & Life Science, Health & Wellness",1191
+3942117,Teacher-Led,Computers & Tablets,History & Civics,"Civics & Government, Economics",1192
+3944004,Teacher-Led,Technology,Math & Science,"Environmental Science, Health & Life Science",1193
+3944005,Teacher-Led,Technology,Literacy & Language,Literacy,1194
+3945289,Teacher-Led,Books,"History & Civics, Literacy & Language","Civics & Government, Literacy",1195
+3945336,Teacher-Led,Instructional Technology,"Literacy & Language, History & Civics","ESL, Social Sciences",1196
+3945804,Teacher-Led,Technology,"Literacy & Language, Music & The Arts","Literature & Writing, Music",1197
+3945809,Teacher-Led,Supplies,"Math & Science, Special Needs","Health & Life Science, Special Needs",1198
+3946042,Teacher-Led,Classroom Basics,History & Civics,"Civics & Government, Social Sciences",1199
+3948735,Teacher-Led,Technology,Music & The Arts,Performing Arts,1200
+3950538,Teacher-Led,Technology,Literacy & Language,"ESL, Literacy",1201
+3950947,Teacher-Led,Other,"Math & Science, History & Civics","Environmental Science, History & Geography",1202
+3952720,Teacher-Led,Books,History & Civics,"History & Geography, Social Sciences",1203
+3952888,Teacher-Led,Technology,Math & Science,Applied Sciences,1204
+3954359,Teacher-Led,Technology,"Literacy & Language, Special Needs","Literacy, Special Needs",1205
+3956278,Teacher-Led,Technology,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",1206
+3957511,Teacher-Led,Books,"History & Civics, Literacy & Language","History & Geography, Literature & Writing",1207
+3960378,Teacher-Led,Technology,Special Needs,Special Needs,1208
+3963716,Student-Led,Supplies,Health & Sports,"Gym & Fitness, Health & Wellness",1209
+3963727,Teacher-Led,Other,"Applied Learning, Special Needs","Extracurricular, Special Needs",1210
+3965713,Teacher-Led,Trips,Math & Science,Environmental Science,1211
+3967708,Teacher-Led,Supplies,"Math & Science, Music & The Arts","Applied Sciences, Visual Arts",1212
+3967905,Teacher-Led,Technology,"Math & Science, Special Needs","Health & Life Science, Special Needs",1213
+3968549,Teacher-Led,Other,"Applied Learning, Health & Sports","Extracurricular, Nutrition Education",1214
+3968562,Teacher-Led,Supplies,"Applied Learning, Special Needs","Character Education, Special Needs",1215
+3968564,Teacher-Led,Supplies,"Warmth, Care & Hunger","Warmth, Care & Hunger",1216
+3969744,Teacher-Led,Technology,"History & Civics, Special Needs","Social Sciences, Special Needs",1217
+3971427,Teacher-Led,Books,"Literacy & Language, History & Civics","Literature & Writing, Social Sciences",1218
+3972388,Teacher-Led,Supplies,"Literacy & Language, Special Needs","Literacy, Special Needs",1219
+3975787,Teacher-Led,Supplies,Math & Science,"Environmental Science, Mathematics",1220
+3976090,Teacher-Led,Art Supplies,Music & The Arts,Visual Arts,1221
+3977370,Teacher-Led,Flexible Seating,Health & Sports,Health & Wellness,1222
+3977485,Teacher-Led,Books,"Warmth, Care & Hunger","Warmth, Care & Hunger",1223
+3980065,Teacher-Led,Technology,"Applied Learning, Special Needs","Early Development, Special Needs",1224
+3981261,Teacher-Led,Supplies,"Applied Learning, Math & Science","Early Development, Mathematics",1225
+3981290,Teacher-Led,Other,Literacy & Language,Literacy,1226
+3983238,Teacher-Led,Supplies,Health & Sports,Team Sports,1227
+3986453,Teacher-Led,Flexible Seating,"Literacy & Language, Math & Science","Literacy, Mathematics",1228
+3986982,Teacher-Led,Supplies,"Special Needs, Music & The Arts","Special Needs, Visual Arts",1229
+3987428,Teacher-Led,Visitors,"Applied Learning, Math & Science","Community Service, Environmental Science",1230
+3987827,Teacher-Led,Supplies,"Applied Learning, Music & The Arts","Extracurricular, Visual Arts",1231
+3988645,Teacher-Led,Supplies,"Music & The Arts, History & Civics","Performing Arts, Social Sciences",1232
+3989745,Teacher-Led,Supplies,"History & Civics, Math & Science","History & Geography, Mathematics",1233
+3989864,Teacher-Led,Other,"Math & Science, Special Needs","Environmental Science, Special Needs",1234
+3990265,Teacher-Led,Supplies,Math & Science,Applied Sciences,1235
+3990793,Teacher-Led,Supplies,"Math & Science, Health & Sports","Applied Sciences, Health & Wellness",1236
+3992896,Teacher-Led,Supplies,Math & Science,"Environmental Science, Health & Life Science",1237
+3997786,Teacher-Led,Technology,Music & The Arts,"Performing Arts, Visual Arts",1238
+3998998,Teacher-Led,Books,Special Needs,Special Needs,1239
+3999362,Teacher-Led,Supplies,"Applied Learning, Health & Sports","Extracurricular, Health & Wellness",1240
+4000862,Teacher-Led,Technology,Math & Science,"Environmental Science, Mathematics",1241
+4001065,Teacher-Led,Books,"Literacy & Language, History & Civics","ESL, History & Geography",1242
+4001297,Teacher-Led,Supplies,Music & The Arts,Visual Arts,1243
+4002832,Teacher-Led,Supplies,Applied Learning,Other,1244
+4002848,Teacher-Led,Technology,"Math & Science, Literacy & Language","Environmental Science, Literacy",1245
+4003526,Teacher-Led,Supplies,Literacy & Language,"Literacy, Literature & Writing",1246
+4004484,Teacher-Led,Technology,"Literacy & Language, History & Civics","Literature & Writing, Social Sciences",1247
+4004525,Teacher-Led,Technology,Math & Science,Mathematics,1248
+4006357,Teacher-Led,Supplies,Math & Science,"Applied Sciences, Health & Life Science",1249
+4006608,Teacher-Led,Supplies,"History & Civics, Music & The Arts","History & Geography, Visual Arts",1250
+4011078,Teacher-Led,"Reading Nooks, Desks & Storage",Math & Science,Mathematics,1251
+4011412,Teacher-Led,Technology,Math & Science,"Applied Sciences, Environmental Science",1252
+4011489,Teacher-Led,Technology,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",1253
+4011498,Teacher-Led,Technology,Literacy & Language,"ESL, Literature & Writing",1254
+4012628,Teacher-Led,Supplies,"Literacy & Language, Music & The Arts","Literature & Writing, Visual Arts",1255
+4013190,Teacher-Led,Supplies,"Literacy & Language, Music & The Arts","Literacy, Visual Arts",1256
+4015330,Teacher-Led,Art Supplies,"Math & Science, Literacy & Language","Applied Sciences, Literacy",1257
+4016087,Teacher-Led,Supplies,"Literacy & Language, Math & Science","Literacy, Mathematics",1258
+4016287,Teacher-Led,Books,Literacy & Language,"Literacy, Literature & Writing",1259
+4016964,Teacher-Led,Books,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",1260
+4016969,Teacher-Led,Books,"Literacy & Language, History & Civics","Literacy, Social Sciences",1261
+4017064,Teacher-Led,Computers & Tablets,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",1262
+4017946,Teacher-Led,Other,Literacy & Language,"ESL, Literacy",1263
+4020298,Teacher-Led,Supplies,"Literacy & Language, Special Needs","Literature & Writing, Special Needs",1264
+4020994,Teacher-Led,Books,"History & Civics, Literacy & Language","History & Geography, Literacy",1265
+4021868,Teacher-Led,Books,Literacy & Language,Literature & Writing,1266
+4022045,Teacher-Led,Technology,Math & Science,"Applied Sciences, Mathematics",1267
+4022216,Teacher-Led,Technology,Health & Sports,Team Sports,1268
+4022707,Teacher-Led,Trips,"Math & Science, Literacy & Language","Health & Life Science, Literature & Writing",1269
+4024839,Teacher-Led,"Reading Nooks, Desks & Storage",Applied Learning,Other,1270
+4025764,Teacher-Led,Books,"Literacy & Language, Math & Science","Literacy, Mathematics",1271
+4025997,Teacher-Led,Supplies,"Applied Learning, Health & Sports","Early Development, Health & Wellness",1272
+4026289,Teacher-Led,Other,"Literacy & Language, Math & Science","Literacy, Mathematics",1273
+4026953,Teacher-Led,Books,Literacy & Language,"ESL, Literacy",1274
+4026961,Teacher-Led,Supplies,Literacy & Language,Literature & Writing,1275
+4028693,Teacher-Led,Technology,"Math & Science, Literacy & Language","Health & Life Science, Literacy",1276
+4029230,Teacher-Led,Computers & Tablets,Math & Science,"Applied Sciences, Mathematics",1277
+4029639,Teacher-Led,Technology,"Literacy & Language, Math & Science","Literacy, Mathematics",1278
+4029759,Teacher-Led,Classroom Basics,Literacy & Language,"Literacy, Literature & Writing",1279
+4030567,Teacher-Led,Technology,"Math & Science, Literacy & Language","Applied Sciences, Literature & Writing",1280
+4031316,Student-Led,Supplies,Math & Science,"Applied Sciences, Mathematics",1281
+4032029,Teacher-Led,Computers & Tablets,"Math & Science, Literacy & Language","Applied Sciences, Literature & Writing",1282
+4032499,Teacher-Led,Other,"Health & Sports, Applied Learning","Health & Wellness, Other",1283
+4032954,Teacher-Led,Other,"Applied Learning, Literacy & Language","Character Education, Literature & Writing",1284
+4034825,Teacher-Led,Technology,"Literacy & Language, Math & Science","Literature & Writing, Mathematics",1285
+4035011,Teacher-Led,Supplies,Math & Science,"Applied Sciences, Environmental Science",1286
+4037131,Teacher-Led,Books,"Literacy & Language, Special Needs","Literacy, Special Needs",1287
+4037331,Teacher-Led,Instructional Technology,Literacy & Language,Foreign Languages,1288
+4038231,Teacher-Led,Technology,Music & The Arts,Visual Arts,1289
+4038693,Teacher-Led,Supplies,Special Needs,Special Needs,1290
+4038713,Teacher-Led,Instructional Technology,Music & The Arts,Performing Arts,1291
+4039633,Teacher-Led,Books,Music & The Arts,"Performing Arts, Visual Arts",1292
+4039675,Teacher-Led,Trips,Applied Learning,College & Career Prep,1293
+4039949,Teacher-Led,Supplies,Math & Science,Mathematics,1294
+4040024,Teacher-Led,Supplies,Literacy & Language,Literacy,1295
+4041054,Teacher-Led,Supplies,Applied Learning,Early Development,1296
+4042049,Teacher-Led,Educational Kits & Games,"Applied Learning, Special Needs","Early Development, Special Needs",1297
+4042933,Teacher-Led,Books,"Literacy & Language, Music & The Arts","Literature & Writing, Performing Arts",1298
+4043867,Teacher-Led,Technology,Literacy & Language,"Literacy, Literature & Writing",1299
+4043911,Teacher-Led,Supplies,Health & Sports,Health & Wellness,1300
+4044304,Teacher-Led,Books,Literacy & Language,Literacy,1301
+4147955,,,,,1302
